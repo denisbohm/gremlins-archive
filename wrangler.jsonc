@@ -2,6 +2,6 @@
   "name": "gremlins-archive",
   "compatibility_date": "2026-02-10",
   "assets": {
-    "directory": "./"
+    "directory": "./site"
   }
 }
