@@ -1,0 +1,7 @@
+<p><table width=544><tr>
+<td width=76><a href="/garage/gallerySearch.jsp?onFind&bySince&since=28&icons=true">
+<img src="http://www.gremlins.com/garage/gallery_icon.gif" width="76" height="76" border="0" alt="Gallery"></a></td>
+<td align=left valign=top>Where do you put your kits when they are all done?  Don't just put
+them on a shelf to gather dust, set them up in the model gallery for
+everyone to enjoy.</td>
+</tr></table></p>

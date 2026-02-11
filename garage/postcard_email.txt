@@ -1,0 +1,38 @@
+Date: [date]
+Mime-Version: 1.0
+To: [to]
+Subject: Gremlin-Gram Postcard!
+From: [from]
+Content-type: multipart/mixed; boundary=boundary
+
+Here is a Gremlin-Gram Postcard from [from]:
+
+[message]
+
+Postcard provided by:
+    Gremlins in the Garage!
+    www.gremlins.com
+
+Note: Your e-mail reader does not seem to support MIME,
+so you will not be able to view the enclosed postcard
+image.  Sorry!
+
+--boundary
+Content-type: text/plain; charset=us-ascii
+
+Here is a Gremlin-Gram Postcard from [from]:
+
+[message]
+
+Postcard provided by:
+    Gremlins in the Garage!
+    www.gremlins.com
+
+--boundary
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Description: postcard.gif
+
+[image]
+
+--boundary--

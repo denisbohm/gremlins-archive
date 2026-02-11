@@ -1,0 +1,13 @@
+From: [username] ([realname])
+To: [required-to]
+Reply-to: [username] ([realname])
+Subject: [subject]
+
+Name: [realname]
+Email: [username]
+
+The Best: [bestkit] by [bestco]
+Why Best: [bestwhy]
+
+The Worst: [worstkit] by [worstco]
+Why Worst: [worstwhy]

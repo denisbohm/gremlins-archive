@@ -1,0 +1,35 @@
+From: [username] ([realname])
+To: [required-to]
+Reply-to: [username] ([realname])
+Subject: Survey Results
+
+[username]
+[realname]
+
+1. [q1]
+2. [q2]
+3. [q3]
+4. [q4]
+[q4t]
+
+5. [q5]
+6. [q6]
+7. [q7]
+8. [q8]
+9. [q9]
+[q9t]
+
+10. [q10]
+[q10t]
+
+11. [q11]
+[q11t]
+
+12. [q12]
+13. [q13]
+14.
+[q14t]
+
+15. [q15t]
+16.
+[q16t]

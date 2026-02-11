@@ -1,0 +1,5 @@
+<p><table width=544><tr>
+<td width=76><a href="http://www.gremlins.com/servlet/Bite?onFind=&since=28">
+<img src="http://www.gremlins.com/garage/bites_icon.gif" width="76" height="76" border="0" alt="Bites"></a></td>
+<td align=left valign=top>Take a bite of the latest figure kit news!</td>
+</tr></table></p>

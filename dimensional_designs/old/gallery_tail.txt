@@ -1,0 +1,12 @@
+
+<p><center><img src=http://www.gremlins.com/garage/bones.gif alt="-----"></center><p>
+
+The Gremlins in the Garage webzine is a production of
+Firefly Design.  If you have any questions or comments please
+<a href=http://www.gremlins.com/garage/touch.html><b>get in touch</b></a>.
+<p>
+<a href=http://www.gremlins.com/garage/copyright.html>Copyright</a> &#169; 1994-1997
+<a href="http://www.fireflydesign.com">Firefly Design</a>.
+
+</body>
+</html>

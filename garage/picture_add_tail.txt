@@ -1,0 +1,60 @@
+<p>
+<a href=http://www.gremlins.com/servlet/Picture?onFind=><b>List of Pictures</b></a>
+in your directory on the gremlins web site.
+</p>
+
+<p>
+<b>Image Rules</b><br>
+There are some rules that must be followed when preparing images
+for the gremlins web site.  The rules describe the acceptable
+image size, file size, format, and file name.  The types of images
+that you prepare depends on if you are submitting a gallery entry,
+kit review, or bites press release.  For example, to submit a
+gallery entry you only need a full size and icon image.  The
+sections below describe the rules for each image type.
+</p>
+<p>
+<i>Note: Always update your images to the web site before using
+the "Add Buildup" form (otherwise visitors to the site will
+see the entry in the gallery, but there won't be any images).</i>
+</p>
+
+<p>
+<b>Full Size Image</b> (used in gallery)<br>
+<ul>
+<li>must have a file size less than 100k bytes (smaller is better)
+<li>must be less than or equal to 576 pixels tall and 544 pixels wide
+<li>must be jpeg format
+<li>must have a file name ending with ".jpg"
+</ul>
+</p>
+
+<p>
+<b>Icon Image</b> (used in gallery and optionally for reviews)<br>
+<ul>
+<li>must have a file size less than 10k bytes
+<li>must be 96 pixels tall and 64 pixels wide
+<li>must be gif format (256 color and interlaced is best)
+<li>must have a file name ending with "_icon.gif"
+</ul>
+</p>
+
+<p>
+<b>Review Image</b> (used optionally for reviews)<br>
+<ul>
+<li>must have a file size less than 25k bytes
+<li>must be less than or equal to 216 pixels tall and 216 pixels wide
+<li>must be jpeg format
+<li>must have a file name ending with "_review.jpg"
+</ul>
+</p>
+
+<p>
+<b>Bite Image</b> (used in bites)<br>
+<ul>
+<li>must have a file size less than 25k bytes
+<li>must be less than or equal to 216 pixels tall and 216 pixels wide
+<li>must be jpeg format
+<li>must have a file name ending with "_bite.jpg"
+</ul>
+</p>

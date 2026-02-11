@@ -1,0 +1,8 @@
+default http://www.dimensionaldesigns.com/index.html
+rect http://www.gremlins.com/index.html                0,0  75,75
+rect http://www.dimensionaldesigns.com/index.html     78,0 153,75
+rect http://www.dimensionaldesigns.com/details.html  156,0 231,75
+rect http://www.dimensionaldesigns.com/catalog.html  234,0 309,75
+rect http://www.dimensionaldesigns.com/gallery.html  312,0 387,75
+rect http://www.dimensionaldesigns.com/ordering.html 390,0 465,75
+rect http://www.dimensionaldesigns.com/trade.html    468,0 543,75

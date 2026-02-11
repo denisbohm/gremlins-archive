@@ -1,0 +1,25 @@
+From: [email] ([name])
+To: [required-to]
+Reply-to: [email] ([name])
+Subject: Shirt Order
+
+[username]
+[realname]
+
+[S] Small
+[M] Medium
+[L] Large
+[XL] Extra Large
+[XXL] Extra Extra Large
+[XXXL] Extra Extra Extra Large
+
+$[total] Total [payment]
+
+Name:      [name]
+Address:   [address]
+City:      [city]
+State/Zip: [statezip]
+Country:   [country]
+
+Notes:
+[notes]

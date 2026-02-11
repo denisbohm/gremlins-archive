@@ -1,0 +1,14 @@
+<p><table width=544><tr><td>
+<p>
+<a href="http://members.aol.com/fatmanprod/index.html"><img src="http://www.gremlins.com/fatman/bar.jpg" width=544 height=72 border=0></a>
+</p>
+<p>
+<img src=http://www.gremlins.com/garage/letter/w.gif alt="W">elcome
+to the gallery!
+From here you can search for any of the kits in gremlins.
+If you don't find what you are looking for then
+<a href="http://www.gremlins.com/denis_bohm/getting_started.html"><b>build one</b></a>
+and
+<a href="http://www.gremlins.com/garage/submit.html"><b>send a picture</b></a>!</b>
+</p>
+</td></tr></table></p>

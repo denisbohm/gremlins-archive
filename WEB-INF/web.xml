@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.2//EN"
+    "http://java.sun.com/j2ee/dtds/web-app_2_2.dtd">
+
+<web-app>
+
+    <servlet>
+        <servlet-name>Bite</servlet-name>
+        <servlet-class>com.gremlins.gallery.Bite</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Bite</servlet-name>
+        <url-pattern>/servlet/Bite</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Buildup</servlet-name>
+        <servlet-class>com.gremlins.gallery.Buildup</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Buildup</servlet-name>
+        <url-pattern>/servlet/Buildup</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Company</servlet-name>
+        <servlet-class>com.gremlins.gallery.Company</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Company</servlet-name>
+        <url-pattern>/servlet/Company</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Contact</servlet-name>
+        <servlet-class>com.gremlins.gallery.Contact</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Contact</servlet-name>
+        <url-pattern>/servlet/Contact</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Favorite</servlet-name>
+        <servlet-class>com.gremlins.gallery.Favorite</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Favorite</servlet-name>
+        <url-pattern>/servlet/Favorite</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Genre</servlet-name>
+        <servlet-class>com.gremlins.gallery.Genre</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Genre</servlet-name>
+        <url-pattern>/servlet/Genre</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Kit</servlet-name>
+        <servlet-class>com.gremlins.gallery.Kit</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Kit</servlet-name>
+        <url-pattern>/servlet/Kit</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Logon</servlet-name>
+        <servlet-class>com.gremlins.gallery.Logon</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Logon</servlet-name>
+        <url-pattern>/servlet/Logon</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Material</servlet-name>
+        <servlet-class>com.gremlins.gallery.Material</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Material</servlet-name>
+        <url-pattern>/servlet/Material</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>NewStuff</servlet-name>
+        <servlet-class>com.gremlins.gallery.NewStuff</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>NewStuff</servlet-name>
+        <url-pattern>/servlet/NewStuff</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Picture</servlet-name>
+        <servlet-class>com.gremlins.gallery.Picture</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Picture</servlet-name>
+        <url-pattern>/servlet/Picture</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Review</servlet-name>
+        <servlet-class>com.gremlins.gallery.Review</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Review</servlet-name>
+        <url-pattern>/servlet/Review</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Rights</servlet-name>
+        <servlet-class>com.gremlins.gallery.Rights</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Rights</servlet-name>
+        <url-pattern>/servlet/Rights</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Scale</servlet-name>
+        <servlet-class>com.gremlins.gallery.Scale</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Scale</servlet-name>
+        <url-pattern>/servlet/Scale</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Show</servlet-name>
+        <servlet-class>com.gremlins.gallery.Show</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Show</servlet-name>
+        <url-pattern>/servlet/Show</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Type</servlet-name>
+        <servlet-class>com.gremlins.gallery.Type</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Type</servlet-name>
+        <url-pattern>/servlet/Type</url-pattern>
+    </servlet-mapping>
+
+</web-app>

@@ -1,0 +1,8 @@
+default http://www.gremlins.com/index.html
+rect http://www.gremlins.com/garage/contents.html    0,0  75,75
+rect http://www.gremlins.com/garage/new_stuff.html  78,0 153,75
+rect http://www.gremlins.com/garage/bites.html     156,0 231,75
+rect http://www.gremlins.com/garage/garages.html   234,0 309,75
+rect http://www.gremlins.com/garage/articles.html  312,0 387,75
+rect http://www.gremlins.com/garage/gallery.html   390,0 465,75
+rect http://www.gremlins.com/garage/resources.html 468,0 543,75

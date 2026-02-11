@@ -1,0 +1,63 @@
+<p>
+<b>Pictures</b><br>
+Before you insert your buildup information you must first transfer
+your <b>full image</b> and <b>icon image</b> pictures to the gremlins web site using
+the <a href=http://www.gremlins.com/servlet/Picture><b>Picture</b></a>
+page.
+You can also list all of the picture files in your directory on the gremlins
+web site by using the
+<a href=http://www.gremlins.com/servlet/Picture?onFind><b>List of Pictures</b></a>
+page.
+</p>
+
+<p>
+<b>What is Path?</b><br>
+The path is the file name of your full size picture, in your directory
+on the gremlins web site, but without the
+without the <b>.jpg</b> extension.  So if your
+picture file name is <b>monster.jpg</b>
+then the path to enter is simply <b>monster</b>.
+</p>
+
+<p>
+<b>Why Isn't My Name Listed?</b><br>
+There is info on over a thousand contacts in the gremlins database.
+If all their names were sent over with this web page, you would
+be waiting a while and it would be hard to find the name that you
+are looking for in the large list.  So only names that have been
+noted as "Favorites" are listed.
+</p>
+<p>
+To note a name as a favorite:
+<ol>
+<li><a href="http://www.gremlins.com/servlet/Logon"><b>Logon</b></a>.
+<li>Go to the
+<a href="http://www.gremlins.com/servlet/Contact"><b>Contact Search Page</b></a>
+(which can also be found by going to the "Resources" section and
+following the "Contact" link).
+<li>Search for the name.
+<li>If you find the name listed then click on the name and then
+on the next page click on the "Note" button.  The next time you
+reload this page you will see the name listed.
+</ol>
+</p>
+<p>
+If you do not find the name listed then you can add it.  When you
+add a name it is automatically noted as a favorite.  To add a name:
+<ol>
+<li><a href="http://www.gremlins.com/servlet/Logon"><b>Logon</b></a>.
+<li>Go to the
+<a href="http://www.gremlins.com/servlet/Contact?onAdd"><b>Contact Add Page</b></a>
+(which can also be found by going to the "Resources" section and
+following the "Contact" link and then clicking on the "Add" button).
+<li>Fill out the form and press the "Insert" button.
+</ol>
+</p>
+
+<p>
+<b>Why Isn't My Kit Listed?</b><br>
+Same reason that your name wasn't listed.  And you follow the same
+procedure to add a kit name to the list, except that you use the
+<a href="http://www.gremlins.com/servlet/Kit"><b>Kit Search Page</b></a>
+rather than the contact search page.
+</p>

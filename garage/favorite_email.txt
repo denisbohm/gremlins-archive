@@ -1,0 +1,14 @@
+From: [username] ([realname])
+To: [required-to]
+Reply-to: [username] ([realname])
+Subject: [subject]
+
+Your name: [realname]
+Your email: [username]
+
+Kit name: [kit]
+Produced by: [company]
+In the category: [category]
+Based on: [exposure]
+Because:
+[because]

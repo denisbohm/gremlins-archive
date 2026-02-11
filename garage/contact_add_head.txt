@@ -1,0 +1,5 @@
+<p><b>
+Please
+<a href="http://www.gremlins.com/servlet/Contact?onAdd">search for a contact</a>
+before using the form below so we can avoid duplicate information. -Thanks!
+</b></p>

@@ -1,0 +1,6 @@
+From: [username] ([realname])
+To: [required-to]
+Reply-to: [username] ([realname])
+Subject: [subject]
+
+subscribe [list] [username]

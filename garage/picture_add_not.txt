@@ -1,0 +1,6 @@
+<p>
+To add your pictures to the gremlins web site you must first
+<a href=http://www.gremlins.com/garage/submit.html><b>request an account</b></a>
+and then
+<a href=http://www.gremlins.com/servlet/Logon><b>logon</b></a>.
+</p>

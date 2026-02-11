@@ -1,0 +1,26 @@
+<p>
+To logon you must first
+<a href=http://www.gremlins.com/garage/submit.html><b>request an account</b></a>.
+</p>
+
+<p>
+<b>Cookies</b><br>
+A web browser feature called <i>Cookies</i> is used to identify who
+you are after you have logged on.  So you will need to have cookie
+support turned on in your web browser when you are logged on to the
+gremlins web site to make changes.  If you logon but do not see any
+buttons on the various forms then you probably have cookie
+support turned off.  Turn on cookie support and logon again.
+</p>
+
+<p>
+<b>Rights</b><br>
+You will be given certain rights which control the types of
+changes that you can make to the gremlins web site.  The intent
+is to restrict the types of changes that can be made in order
+to prevent the accidental loss of information.  If you do not
+have the rights to make a change please send us the details
+via e-mail
+(<a href="mailto:gremlins@gremlins.com"><b>gremlins@gremlins.com</b></a>)
+so we can make the changes for you.
+</p>

@@ -1,0 +1,6 @@
+<p><table width=544><tr>
+<td width=76><a href="http://www.gremlins.com/garage/resources.html">
+<img src="http://www.gremlins.com/garage/resources_icon.gif" width="76" height="76" border="0" alt="Resources"></a></td>
+<td align=left valign=top>There are lots of other resources for garage kit info: books, magazines,
+videos, other web sites, and more!  Take a trip and see what you can find!</td>
+</tr></table></p>
