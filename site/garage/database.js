@@ -117424,3 +117424,1607 @@ const review_items = [
         "content": "It has been a while, but back at it :)"
     }
 ]
+const bite_items = [
+    {
+        "uid": 1,
+        "owner": 5052,
+        "updated": "1998-03-04 11:07:46",
+        "kit": 4266,
+        "buildup": 1271,
+        "path": "warlord",
+        "comment": "\"Expect the Unexpected\" kit is the first line of new kits by \"Chinxy's Realm of\nModels\".  \nIn the savage world of the Warlord, life is a constant struggle for survival.\nOne simple law prevails, if you ever let your guard down for one second you\nwill soon be very dead!  In this savage world always \"Expect the Unexpected!\"\nThis kit, as it stands on it's base, is a very large eye catcher.  It stands 14 inches\ntall surrounded by stone walls, boulders, a pillar, and a stone stairway.  The\nWarlord as he is stepping off the stairs onto the stone road is ready to do\nbattle with ....?  (Next Kit.  Coming summer of 98).\n"
+    },
+    {
+        "uid": 3,
+        "owner": 5079,
+        "updated": "1998-04-04 23:12:40",
+        "kit": 4301,
+        "buildup": 1307,
+        "path": "nest",
+        "comment": "Finally done folks, The \"nest\" base is now for sale. It is available at Lil Monsters and is retailing for $55.00.\nIt is a must for any Giger fan."
+    },
+    {
+        "uid": 5,
+        "owner": 5106,
+        "updated": "1998-04-26 11:52:43",
+        "kit": 4327,
+        "buildup": 1339,
+        "path": "hellraiser",
+        "comment": "Price of this kit is 30 pounds sterling plus 12 pounds sterling overseas postage \u2013 U.S. only (phone for shipping rates to other countries). The size of the plaque is approximately 7 inches tall by 11 inches wide. The solid resin wall plaque is beautifully done \u2013 a must have for all Hellraiser fans. It depicts Pinhead, Chatterer, Butterball, and the Female Cenobite in three-dimensional bas-relief. The Cenobites are the head and shoulders only and the Engineer is seen in his entirety!"
+    },
+    {
+        "uid": 6,
+        "owner": 5109,
+        "updated": "1998-04-26 12:24:59",
+        "kit": 4331,
+        "buildup": 1340,
+        "path": "aquarius",
+        "comment": "This is one of the first Headhunters Studios new line of resin kits. These very unique sculptures are unlike anything else on the market. Original and extremely detailed, these creatures are sure to make any room come alive! We're confident that you will be so satisfied with our kits that you will want to order them all.  Each of these sculptures is limited to only 500 copies worldwide.  So call and order now!"
+    },
+    {
+        "uid": 7,
+        "owner": 5109,
+        "updated": "1998-06-07 12:02:10",
+        "kit": 4330,
+        "buildup": 1341,
+        "path": "treedog",
+        "comment": "This is one of the first Headhunters Studios new line of resin kits. These very unique sculptures are unlike anything else on the market. Original and extremely detailed, these creatures are sure to make any room come alive! We're confident that you will be so satisfied with our kits that you will want to order them all.  Each of these sculptures is limited to only 500 copies worldwide.  So call and order now!"
+    },
+    {
+        "uid": 8,
+        "owner": 5109,
+        "updated": "1998-06-07 12:02:26",
+        "kit": 4329,
+        "buildup": 1342,
+        "path": "darter",
+        "comment": "This is one of the first Headhunters Studios new line of resin kits. These very unique sculptures are unlike anything else on the market. Original and extremely detailed, these creatures are sure to make any room come alive! We're confident that you will be so satisfied with our kits that you will want to order them all.  Each of these sculptures is limited to only 500 copies worldwide.  So call and order now!"
+    },
+    {
+        "uid": 9,
+        "owner": 5109,
+        "updated": "1998-06-07 12:02:39",
+        "kit": 4328,
+        "buildup": 1343,
+        "path": "alienus",
+        "comment": "This is one of the first Headhunters Studios new line of resin kits. These very unique sculptures are unlike anything else on the market. Original and extremely detailed, these creatures are sure to make any room come alive! We're confident that you will be so satisfied with our kits that you will want to order them all.  Each of these sculptures is limited to only 500 copies worldwide.  So call and order now!"
+    },
+    {
+        "uid": 10,
+        "owner": 73,
+        "updated": "1999-10-13 22:27:55",
+        "kit": 4332,
+        "buildup": 1344,
+        "path": "mst3k",
+        "comment": "<p>\nThe long-awaited <b>MYSTERY SCIENCE THEATER 3000: THE MODEL KIT</b> from Janus Company is now available!\n</p>\n<p>\n<b>MST3K:TMK</b> depicts the bridge of the <b>Satellite of Love</b> with <b>Mike Nelson</b> steering the ship while <b>Tom Servo</b>, <b>Crow T. Robot</b> and <b>Gypsy</b> express their confidence in his piloting skills by screaming \"WE'RE ALL GONNA DIE!\"  \n</p>\n<p>\n<b>Kit features:</b>\n<ul>\n<li>1/8th scale\n<li>Limited Edition\n<li>31 highly-detailed parts\n<li>Hand-cast quality urethane resin\n<li>Numbered certificate of authenticity\n<li>Color box art by Gary Glover\n<li>Detailed assembly and painting instructions\n<li>Sculpted by Tom Seiler and Jeff Yagher\n<li>Assembled kit measures 10\" x 12\" x 11\" tall\n<li>Fully licensed by Best Brains, Inc. and The Sci-Fi Channel\n<li>$195.00 + $8.00 shipping\n</ul>\n</p>\n<p>\nThe kit was created with the gracious cooperation of Best Brains, Inc., who allowed \"Team Janus\" to spend two days in their studio to photograph and measure the set, the Bots, and even Mike Nelson (we took Mike's word for his dimensions!)\n</p>"
+    },
+    {
+        "uid": 11,
+        "owner": 5118,
+        "updated": "1998-05-05 20:12:13",
+        "kit": 4339,
+        "buildup": 0,
+        "path": "monster",
+        "comment": "Sculpted by Mike Petryszak.  This kit comes in 12 pieces which are roto-cast from Wind Shear (very clean casting).  The head has two versions, open or closed lids.  It balances on its own and comes with building instructions."
+    },
+    {
+        "uid": 12,
+        "owner": 5123,
+        "updated": "1998-05-10 21:08:03",
+        "kit": 4349,
+        "buildup": 0,
+        "path": "betty",
+        "comment": "Betty Page is 1/6 scale resin kit and stands about 10 inches tall when built up,\nshe comes boxed with original box artwork.\nBetty Page will be priced at \u00a355.00 + postage\nThis kit is only available from Roy Summers Sculptures, If you didn't get it direct from them, its not an original.\nFor more information on kits and orders please email Roy Summers Sculptures at\n<a href=\"mailto:xzg93@dial.pipex.com\"><b>xzg93@dial.pipex.com\n</b></a>\n"
+    },
+    {
+        "uid": 15,
+        "owner": 138,
+        "updated": "1998-05-18 09:55:48",
+        "kit": 4385,
+        "buildup": 0,
+        "path": "wisepenny",
+        "comment": "This brand new sculpting was done by Mark Towler and is cast in the finest porcelain 100% bubble free. The first 50 kits\ncome with a limited edition T-Shirt. All kits come with certificate of authencity and are limited to 500 castings. This kit is priced\nat \u00a360.00 STERLING, please see currency convertor on the\n<a href=\"http://business.netcom.co.uk/starwars/\"><b>Starwars Emporium</b></a> web site."
+    },
+    {
+        "uid": 16,
+        "owner": 138,
+        "updated": "1998-05-18 09:59:22",
+        "kit": 4386,
+        "buildup": 0,
+        "path": "lara",
+        "comment": "This kit sculpted by Roy Summers is now exclusivly\navailable through the S.W.E. This kit is priced at \u00a370.00 STERLING.\nPostage is extra and depends upon where you are.\nThis is a 6 piece resin kit in 1:5 scale.\n"
+    },
+    {
+        "uid": 18,
+        "owner": 138,
+        "updated": "1998-05-18 09:58:16",
+        "kit": 4388,
+        "buildup": 0,
+        "path": "steve",
+        "comment": "This new kit by Mark Towler is of the films greatest\ncharacters \"Cooler King Hilts\" in the classic pose when he`s standing at the \nshooting line and thinking \"how the F*%k can i get out of here\".\nThis kit is cast in the finest porcelain and is 100% bubble free.\nThe detailing is superb and the expression on the face captures the deep thought of the moment.\nThe kit is a limited edition run of 500 all with a numbered certificate.\n\n"
+    },
+    {
+        "uid": 19,
+        "owner": 18,
+        "updated": "1998-05-23 22:05:11",
+        "kit": 4398,
+        "buildup": 0,
+        "path": "venus",
+        "comment": "<a href=\"../azimuth_design/index.html\"><img src=\"../azimuth_design/logo.gif\" width=\"158\" height=\"72\" border=\"0\" vspace=\"16\" hspace=\"16\"></a>\n<p align=center>\nI hope I'm captured --<br>\nso that Agent Venus will rescue me!\n<br clear=all>\n<p>\nThis latest kit from Mike James is a luscious\naddition to his line of \"girl\" kits which includes:\n<a href=\"../azimuth_design/cricket.html\"><b>Cricket</b></a>,\n<a href=\"../azimuth_design/kiko.html\"><b>Kiko</b></a>,\n<a href=\"../azimuth_design/tabitha.html\"><b>Tabitha</b></a>,\n<a href=\"../azimuth_design/bride.html\"><b>Bride</b></a>,\n<a href=\"../azimuth_design/vixen.html\"><b>Vixen</b></a>,\n<a href=\"../azimuth_design/sedusa.html\"><b>Sedusa</b></a>, and\n<a href=\"../azimuth_design/angelissa.html\"><b>Angelissa</b></a>.\nIf you have seen any of these <b>\"Mike James Kits\"</b> then I'm sure\nthey have been <i>blasted</i> into your brain forever!\nBut the best part of Azimuth Design is Mike James.  Mike does all of the\ndesign, sculpting and casting as well as providing excellent customer service.\nI don't know how he can do it, but I'm glad he does!"
+    },
+    {
+        "uid": 20,
+        "owner": 5095,
+        "updated": "1998-06-01 10:18:35",
+        "kit": 4419,
+        "buildup": 0,
+        "path": "curse",
+        "comment": "Resurected from the dungeon of Mat McWhirt, <i>The Return Of The Curse Of Sekenen Rah</i> will be available soon!\n<p>\nLimited to 50 numbered editions. Sculpted by Rick Wyatt.  Can be built either gory or tame.  Reserve your copy now!"
+    },
+    {
+        "uid": 21,
+        "owner": 5162,
+        "updated": "1998-06-04 12:37:46",
+        "kit": 4422,
+        "buildup": 0,
+        "path": "borg",
+        "comment": "Five part 1:6 resin kit, centrifugal casting ensures no air bubbles. Only available directly \u00a370 + postage, contact Fire Horse Forge for more info."
+    },
+    {
+        "uid": 22,
+        "owner": 5162,
+        "updated": "1998-06-04 12:38:03",
+        "kit": 4421,
+        "buildup": 0,
+        "path": "skull",
+        "comment": "Single piece 1:1 scale resin cast, extra wires and tubing supplied. Only available directly \u00a370 + postage, contact Fire Horse Forge for more info."
+    },
+    {
+        "uid": 24,
+        "owner": 138,
+        "updated": "1998-06-08 07:52:57",
+        "kit": 4387,
+        "buildup": 0,
+        "path": "missivy",
+        "comment": "A new kit by Mark Towler\nMiss Ivy is a 1:6 scale female figure but is not based upon any film or comic character\nThis is just Marks own rendition of a well known character.\nIt comes complete with base and seperate white metal rose and crossbow also included are darts for the crossbow"
+    },
+    {
+        "uid": 26,
+        "owner": 138,
+        "updated": "1998-06-08 07:51:57",
+        "kit": 4424,
+        "buildup": 0,
+        "path": "dirtyharry",
+        "comment": "This new kit by Steve Jordan is his second kit sculpted for the Starwars Emporium and Model Zone Marketing\nThis is a totaly new rendition of the old favourite \"Dirty Harry\" as played by Clint Eastwood in several tie-in films.\nThe kit comes with full colour box art and is a limited edition run."
+    },
+    {
+        "uid": 27,
+        "owner": 5177,
+        "updated": "1998-06-08 22:50:19",
+        "kit": 4426,
+        "buildup": 0,
+        "path": "ashlyn",
+        "comment": "A quarter scale kit of adult film star ASHLYN GERE, sculpted by JIM\nDANFORTH!"
+    },
+    {
+        "uid": 28,
+        "owner": 5177,
+        "updated": "1998-06-08 22:51:03",
+        "kit": 4425,
+        "buildup": 0,
+        "path": "gorilla",
+        "comment": "A 31\" tall mountain gorilla called Silverback, sculpted by Jeff Taylor!"
+    },
+    {
+        "uid": 31,
+        "owner": 4848,
+        "updated": "1998-06-26 13:55:46",
+        "kit": 4439,
+        "buildup": 0,
+        "path": "cedrick",
+        "comment": "Cedrick The Zombie is the completion of the trilogy. He has a similar yet different base to Alex and Boris. The kit is 13\" tall and comes complete with certificate of authenticity, metal name plate and assembly instructions. "
+    },
+    {
+        "uid": 32,
+        "owner": 5187,
+        "updated": "1998-12-01 15:11:19",
+        "kit": 4441,
+        "buildup": 0,
+        "path": "Cindy",
+        "comment": "Screamin' Lemur Models unveils its very first kit: Cindy the Vampire.  She's beautiful, She bad, She doesn't get out in daylight much and she'll drink your blood.  She's Cindy the Vampire.  Sculpted by newcomer to the garage kit scene Phil Guzzo, Cindy is approximately 12\" tall, cast in white resin and includes a base with a groovy gothic cross. She's perfect for display with any of your other ghoulish creatures but don't turn your back on her when she's hungry or you might find yourself a pint short. Contact Screamin' Lemur Models at scrlemur@aol.com or visit our websight at http://members.aol.com/scrlemur\n\n"
+    },
+    {
+        "uid": 33,
+        "owner": 4931,
+        "updated": "2000-04-27 18:41:16",
+        "kit": 4442,
+        "buildup": 0,
+        "path": "moreau",
+        "comment": "The Sayer of the Law is a 6\" x 7\" resin bust, sculpted by Anthony Veilleux.  <BR><BR>\nThis kit is officially licenced by New Line Cinema.  Price is $35.00 U.S. + $5.00 shipping.  Visit <a href=\"http://www.gforcemodels.com\">G-Force</a> for more info.<BR><BR>\nNEW - APRIL 2000: Only 10 kits remain - no more will be made!  Order yours today!"
+    },
+    {
+        "uid": 56,
+        "owner": 4824,
+        "updated": "1998-07-15 08:58:21",
+        "kit": 4450,
+        "buildup": 0,
+        "path": "slaine",
+        "comment": "Lee Ames presents the officially licensed Slaine model kit.\nLimited to just 100 signed and numbered kits.\n"
+    },
+    {
+        "uid": 58,
+        "owner": 40,
+        "updated": "1998-08-04 10:36:34",
+        "kit": 3317,
+        "buildup": 0,
+        "path": "ol01",
+        "comment": "Dimensional Designs presents The Outer Limits&#153; limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 59,
+        "owner": 40,
+        "updated": "1998-08-04 10:37:47",
+        "kit": 3337,
+        "buildup": 0,
+        "path": "ol02",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 60,
+        "owner": 40,
+        "updated": "1998-08-04 10:38:21",
+        "kit": 3374,
+        "buildup": 0,
+        "path": "ol03",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 61,
+        "owner": 40,
+        "updated": "1998-08-04 10:38:44",
+        "kit": 3338,
+        "buildup": 0,
+        "path": "ol04",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 62,
+        "owner": 40,
+        "updated": "1998-08-04 10:39:01",
+        "kit": 4455,
+        "buildup": 0,
+        "path": "ol05",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 63,
+        "owner": 40,
+        "updated": "1998-08-04 10:39:19",
+        "kit": 3325,
+        "buildup": 0,
+        "path": "ol06",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 64,
+        "owner": 40,
+        "updated": "1998-08-04 10:39:43",
+        "kit": 3406,
+        "buildup": 0,
+        "path": "ol07",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 65,
+        "owner": 40,
+        "updated": "1998-08-04 10:40:15",
+        "kit": 4456,
+        "buildup": 0,
+        "path": "ol08",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 66,
+        "owner": 40,
+        "updated": "1998-08-04 10:40:33",
+        "kit": 3315,
+        "buildup": 0,
+        "path": "ol09",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 67,
+        "owner": 40,
+        "updated": "1998-08-04 10:40:53",
+        "kit": 4457,
+        "buildup": 0,
+        "path": "ol10",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 68,
+        "owner": 40,
+        "updated": "1998-08-04 10:41:08",
+        "kit": 4458,
+        "buildup": 0,
+        "path": "ol11",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 69,
+        "owner": 40,
+        "updated": "1998-08-04 10:41:23",
+        "kit": 4459,
+        "buildup": 0,
+        "path": "ol12",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 70,
+        "owner": 40,
+        "updated": "1998-08-04 10:41:46",
+        "kit": 3380,
+        "buildup": 0,
+        "path": "ol13",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 71,
+        "owner": 40,
+        "updated": "1998-08-04 10:42:07",
+        "kit": 4460,
+        "buildup": 0,
+        "path": "ol14",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 72,
+        "owner": 40,
+        "updated": "1998-08-04 10:42:24",
+        "kit": 3352,
+        "buildup": 0,
+        "path": "ol15",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 73,
+        "owner": 40,
+        "updated": "1998-08-04 10:42:40",
+        "kit": 3403,
+        "buildup": 0,
+        "path": "ol16",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 74,
+        "owner": 40,
+        "updated": "1998-08-04 10:42:58",
+        "kit": 4461,
+        "buildup": 0,
+        "path": "ol17",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 75,
+        "owner": 40,
+        "updated": "1998-08-04 10:43:53",
+        "kit": 4462,
+        "buildup": 0,
+        "path": "ol18",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 76,
+        "owner": 40,
+        "updated": "1998-08-04 10:44:40",
+        "kit": 4463,
+        "buildup": 0,
+        "path": "ol19",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 77,
+        "owner": 40,
+        "updated": "1998-08-04 10:45:10",
+        "kit": 4464,
+        "buildup": 0,
+        "path": "ol20",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 78,
+        "owner": 40,
+        "updated": "1998-08-04 10:45:41",
+        "kit": 4465,
+        "buildup": 0,
+        "path": "ol21",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 79,
+        "owner": 40,
+        "updated": "1998-08-04 10:46:31",
+        "kit": 4466,
+        "buildup": 0,
+        "path": "ol22",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 80,
+        "owner": 40,
+        "updated": "1998-08-04 10:47:29",
+        "kit": 4467,
+        "buildup": 0,
+        "path": "ol23",
+        "comment": "Dimensional Designs presents The Outer Limits\u2122 limited edition collectors series of officially licensed resin model kits.  All Outer Limits kits include base, nameplate, and require painting and assembly.  Only 500 will be sold, so order yours now!"
+    },
+    {
+        "uid": 81,
+        "owner": 5187,
+        "updated": "1998-09-04 15:45:14",
+        "kit": 4468,
+        "buildup": 0,
+        "path": "nosferatu",
+        "comment": "NEW! Nosferatu is here, sculpted by Master Sculptor Randy Lambert, the same man that brought you the Midget Monsters now brings you this new line of goulish creations. Classic horror characters from film and literature!\u00a0\u00a0 The Base is 8\" tall, The figure is 4 1/2\"\u00a0 The kit comes in three pieces and is cast in white resin with very few bubbles. To order go to http://members.aol.com/scrlemur or contact Screamin' Lemur at scrlemur@aol.com"
+    },
+    {
+        "uid": 82,
+        "owner": 4940,
+        "updated": "1998-08-09 08:15:29",
+        "kit": 4469,
+        "buildup": 0,
+        "path": "alia",
+        "comment": "M-Rex from Germany presents its first female kit called Alia,\nan original design by Stefan Eck.\nKit is produced in white resin and includes the figure, sword, demonhead and base.\n"
+    },
+    {
+        "uid": 83,
+        "owner": 5201,
+        "updated": "1998-09-04 15:43:37",
+        "kit": 4448,
+        "buildup": 0,
+        "path": "abe",
+        "comment": "It's Abe's world!"
+    },
+    {
+        "uid": 85,
+        "owner": 5201,
+        "updated": "1998-09-29 08:10:51",
+        "kit": 4472,
+        "buildup": 0,
+        "path": "arnie",
+        "comment": "1/1 scale Arnie head ( not a skull ), resin and white metal casting, complete with lighting kit for exposed eye"
+    },
+    {
+        "uid": 86,
+        "owner": 4940,
+        "updated": "1998-09-02 10:46:31",
+        "kit": 4474,
+        "buildup": 0,
+        "path": "Lara",
+        "comment": "OXMOX released our favourite 3D shooter heroine Lara Croft as an 1/6 scale resin kit. \nKit comes with Certificate of Authenticity and is licensed by EIDOS/CORE."
+    },
+    {
+        "uid": 88,
+        "owner": 5201,
+        "updated": "1998-09-08 08:43:27",
+        "kit": 4473,
+        "buildup": 0,
+        "path": "molluck",
+        "comment": "Follow up kit to the popular ABE'S WORLD, cast in resin and white metal, LTD to 100 copies wold wide.\nThe price is \u00a328.50 in uk sterling, postage please add 20% to europe, 30% to USA / rest of the world."
+    },
+    {
+        "uid": 89,
+        "owner": 5241,
+        "updated": "1998-09-22 15:15:40",
+        "kit": 4483,
+        "buildup": 0,
+        "path": "Milesdragon",
+        "comment": " This is the second Ray Harryhausen restoration\npiece produced by Milestone Productions and endorsed\nby Ray Harryhausen.\n This 6 piece resin kit, limited to a run of 500 pieces, is restored from the original\nstop-motion prop first casting and comes complete with\na wooden plaque mount and resin cast nameplate and retails for $150.00 plus $5.00 for shipping and handling. A copper\nhinged hand made collar priced at $35.00 and a brass \nengraved nameplate priced at $40.00 can be purchased \nseperately to enhance this magnificent piece. "
+    },
+    {
+        "uid": 95,
+        "owner": 5241,
+        "updated": "1998-09-22 15:47:52",
+        "kit": 4527,
+        "buildup": 0,
+        "path": "MILESOBIE",
+        "comment": "The Willis Harold \"Obie\" O'Brien life cast\nmemoriam piece was created from a partial casting\nmade of Mr. O'Brien in the 1940's. The complete kit\ncomes in three pieces. The resin lifecast prepainted\nin a bronze finish, the oak stained and laquered display\nplaque, and the custom engraved brass nameplate. This piece\nis limited to 100 sets at $150.00 ea. with $5.00 for shipping.\n 50% of the proceeds from the sale of each piece is being donated\nto the L.A. Motion Picture Hospital in the name of Willis and\nDarlyne O'Brien."
+    },
+    {
+        "uid": 96,
+        "owner": 5241,
+        "updated": "1998-09-22 15:06:21",
+        "kit": 4529,
+        "buildup": 0,
+        "path": "MILESEARTH",
+        "comment": " This piece was created from one of the \n3\" animating saucers from the movie and is\nendorsed by Ray Harryhausen and licensed through\nColumbia Pictures. When assembled the disks of the\nsaucer spin and rotate just like the original props\nin the film. Each kit sells for $75.00 plus $5.00\nfor shipping and handling and are available for\nimmediate shipping."
+    },
+    {
+        "uid": 97,
+        "owner": 5241,
+        "updated": "1998-09-22 15:48:39",
+        "kit": 4530,
+        "buildup": 0,
+        "path": "MilesBeetleman",
+        "comment": " This 7 piece resin kit was created from original 1:1 scale\nphoto's taken in 1979 at the great stop-motion and special effects company\nC.P.C. Associates at which time the original puppet was being\nrestored and animated for a simulator ride project\nentitled \"Space Ride\". The sculpting of this piece was painstakingly\nrecreated over a 2 year period of time by master sculptor Kevin Thomas\nunder the supervision of Hal Miles. Each kit sells for\n$100.00 and $5.00 for shipping and handling and is ready for\nimmediate shipping. The license is pending through Howard Ziehm."
+    },
+    {
+        "uid": 98,
+        "owner": 5241,
+        "updated": "1998-09-22 15:48:16",
+        "kit": 4531,
+        "buildup": 0,
+        "path": "MilesJoe",
+        "comment": " This animatable piece was re-machined and\nre-sculpted using as reference a casting from one of the\noriginal 1:1 scale castings from one of the original Joe Young stop-motion\narmature skulls. Each tribute kit comes pre-assembled and includes a finished wood base and resin cast tribute plaque and sells for $75.00 with $5.00 for\nshipping and handling and is available for immediate shipping."
+    },
+    {
+        "uid": 99,
+        "owner": 5201,
+        "updated": "1998-10-23 12:06:51",
+        "kit": 4554,
+        "buildup": 0,
+        "path": "pinhead_bite.jpg",
+        "comment": "\"He'll tear your soul apart\"\n1/1 scale cenobite bust"
+    },
+    {
+        "uid": 100,
+        "owner": 5201,
+        "updated": "1998-11-29 01:58:07",
+        "kit": 4554,
+        "buildup": 0,
+        "path": "pinhead",
+        "comment": "\"He'll tear your soul apart\" in 1/1 scale"
+    },
+    {
+        "uid": 101,
+        "owner": 18,
+        "updated": "1998-11-29 23:24:37",
+        "kit": 4564,
+        "buildup": 0,
+        "path": "oona",
+        "comment": "Oona looks like quite a performer!\n<p>\nThis latest introduction from Mike James is a action packed\naddition to his great line of \"girl\" kits which includes:\n<a href=\"http://www.gremlins.com/azimuth_design/kiko.html\"><b>Kiko</b></a>,\n<a href=\"http://www.gremlins.com/azimuth_design/tabitha.html\"><b>Tabitha</b></a>,\n<a href=\"http://www.gremlins.com/azimuth_design/bride.html\"><b>Bride</b></a>,\n<a href=\"http://www.gremlins.com/azimuth_design/vixen.html\"><b>Vixen</b></a>,\n<a href=\"http://www.gremlins.com/azimuth_design/sedusa.html\"><b>Sedusa</b></a>, and\n<a href=\"http://www.gremlins.com/azimuth_design/angelissa.html\"><b>Angelissa</b></a>.\nIf you have seen any of these <b>\"Mike James Kits\"</b> then I'm sure\nthey have been <i>burned</i> on your retinas forever!\nBut the best part of Azimuth Design is Mike James.  Mike does all of the\ndesign, sculpting and casting as well as providing excellent customer service.\nI don't know how he manages it, but I'm sure glad he does!\n<center>\n<a href=\"http://www.gremlins.com/azimuth_design/index.html\"><img src=\"http://www.gremlins.com/azimuth_design/logo.gif\" width=\"158\" height=\"72\" border=\"0\" vspace=\"10\"></a>\n</center>"
+    },
+    {
+        "uid": 102,
+        "owner": 18,
+        "updated": "1998-11-29 23:24:15",
+        "kit": 3246,
+        "buildup": 0,
+        "path": "angelissa",
+        "comment": "Angelissa has a new make-over!  Take a peek at her new look!"
+    },
+    {
+        "uid": 103,
+        "owner": 5187,
+        "updated": "1999-09-27 09:01:41",
+        "kit": 4566,
+        "buildup": 0,
+        "path": "rowena",
+        "comment": "My that's a pointy sword you've got there ma'am. A warrior from ancient times right\n                                               to your display shelf, don't give her any lip or she'll cut you down to size.\u00a0 A must\n                                               have for any warrior women fans. \n\n                                               The Amazon Warrior is 12\" tall. She's cast in white resin and the kit comes in 7\n                                               parts, including a base and weapons."
+    },
+    {
+        "uid": 104,
+        "owner": 138,
+        "updated": "1999-02-24 09:20:01",
+        "kit": 4591,
+        "buildup": 0,
+        "path": "cleef",
+        "comment": "For more info visit <a href=\"http://business.netcom.co.uk/starwars/LVCLEEF.htm\">Starwars Emporium</a>..."
+    },
+    {
+        "uid": 105,
+        "owner": 138,
+        "updated": "1999-02-24 12:39:42",
+        "kit": 4590,
+        "buildup": 0,
+        "path": "barbie",
+        "comment": "For more info visit <a href=\"http://business.netcom.co.uk/starwars/barbie.htm\">Starwars Emporium</a>."
+    },
+    {
+        "uid": 107,
+        "owner": 138,
+        "updated": "1999-02-24 12:37:03",
+        "kit": 4588,
+        "buildup": 0,
+        "path": "betty",
+        "comment": "For more info visit <a href=\"http://business.netcom.co.uk/starwars/bettypage.htm\">Starwars Emporium</a>."
+    },
+    {
+        "uid": 108,
+        "owner": 138,
+        "updated": "1999-02-24 12:35:38",
+        "kit": 4587,
+        "buildup": 0,
+        "path": "blade",
+        "comment": "For more info visit <a href=\"http://business.netcom.co.uk/starwars/blade.htm\">Starwars Emporium</a>."
+    },
+    {
+        "uid": 109,
+        "owner": 138,
+        "updated": "1999-02-24 12:34:27",
+        "kit": 4586,
+        "buildup": 0,
+        "path": "callisto",
+        "comment": "For more info visit <a href=\"http://business.netcom.co.uk/starwars/callisto.htm\">Starwars Emporium</a>."
+    },
+    {
+        "uid": 111,
+        "owner": 5316,
+        "updated": "1999-03-10 17:54:53",
+        "kit": 4602,
+        "buildup": 0,
+        "path": "thor",
+        "comment": "Thor is DarkStorm Studios' first model kit.  Please feel free to visit our website, www.darkstormstudios.com to see the complete Thor gallery as well as all the exciting and new model kit releases for 1999"
+    },
+    {
+        "uid": 112,
+        "owner": 5316,
+        "updated": "1999-03-10 18:25:22",
+        "kit": 4603,
+        "buildup": 0,
+        "path": "fantazia",
+        "comment": "Fantazia is DarkStorm Studios' second model kit.  Please feel free to visit our website, www.darkstormstudios.com to see the complete Fantazia gallery as well as all the exciting and new model kit releases for 1999."
+    },
+    {
+        "uid": 116,
+        "owner": 5350,
+        "updated": "2002-08-15 14:37:41",
+        "kit": 4637,
+        "buildup": 0,
+        "path": "GargoylewithCat",
+        "comment": "Gargoyle with Cat has a 14 inch wingspan and is 9 1/4 inches tall.\r\nPlease visit my website for other Dream Master kits. www.angelfire.com/il2/dreammaster"
+    },
+    {
+        "uid": 117,
+        "owner": 5350,
+        "updated": "2002-08-15 14:35:44",
+        "kit": 4640,
+        "buildup": 0,
+        "path": "EgyptianGoddess",
+        "comment": "Kit consists of 12 interlocking parts and a brass rod for the flail handle.Two cat statues are included in kit. Please visit my website for more Dream Master kits. www.angelfire.com/il2/dreammaster"
+    },
+    {
+        "uid": 119,
+        "owner": 5201,
+        "updated": "1999-03-30 18:46:55",
+        "kit": 4641,
+        "buildup": 0,
+        "path": "largepred",
+        "comment": "1/1 scale predator bust with indvidual teeth and head spines"
+    },
+    {
+        "uid": 120,
+        "owner": 5350,
+        "updated": "2002-08-15 14:40:12",
+        "kit": 4644,
+        "buildup": 0,
+        "path": "Cleopatra",
+        "comment": "Cleopatra: 1/5 scale resin kit with 7 interlocking parts.Kit includes base which is 10 inches tall and 12 inches wide.Also available are two optional LION STATUES (sold seperatly), for placing on each end of the base.Contact for more information. Please visit my website for more Dream Master kits.\r\nwww.angelfire.com/il2/dreammaster\r\n"
+    },
+    {
+        "uid": 124,
+        "owner": 5387,
+        "updated": "1999-04-13 21:04:56",
+        "kit": 4662,
+        "buildup": 0,
+        "path": "chica",
+        "comment": "Model made with epoxy putty.\nIt's in progress.\nWrite me and give me your impression!\n"
+    },
+    {
+        "uid": 126,
+        "owner": 5316,
+        "updated": "1999-05-11 08:31:02",
+        "kit": 4682,
+        "buildup": 0,
+        "path": "wolf",
+        "comment": "DarkStorm Studio's latest kit. It was sculpted by John Cleary.  How does it look?  Visit www.darkstormstudios.com to see more images of the wolf, plus all the other sculptures John Cleary has done."
+    },
+    {
+        "uid": 128,
+        "owner": 5404,
+        "updated": "1999-05-24 14:24:20",
+        "kit": 4687,
+        "buildup": 0,
+        "path": "cftbl",
+        "comment": "Fred Sylvester announces his kit BLACKIE.  The Gillman in finest form!\nTwo feet tall (yeh, two feet!) and highly detailed, this resin kit pays true \nhomage to everyone's favorite creature. Comes ready to assemble, \ncomplete with base. A must for any true CFTBL fan! \nFor further info contact Fred Sylvester, 914-534-1192, Heff13@aol.com."
+    },
+    {
+        "uid": 129,
+        "owner": 4940,
+        "updated": "1999-06-11 11:29:14",
+        "kit": 4707,
+        "buildup": 0,
+        "path": "bighorny",
+        "comment": "Lifesize, 87 inches tall Horned Reaper from the PC game Dungeon Keeper 2. Released as a finished figure, Prepaint! Sculpted by Marc Klinnert-studio oxmox and Christian Soeder-dark art. Go to http://www.darkart.de for more details."
+    },
+    {
+        "uid": 136,
+        "owner": 5338,
+        "updated": "1999-07-10 06:37:53",
+        "kit": 4757,
+        "buildup": 0,
+        "path": "kong",
+        "comment": "Available now from Shapeshifters\n$90.00 post included\n\u00a355.00 post included\ne-mail shapeshifters@cableinet.co.uk"
+    },
+    {
+        "uid": 137,
+        "owner": 5119,
+        "updated": "1999-07-15 06:08:09",
+        "kit": 4762,
+        "buildup": 0,
+        "path": "kang1",
+        "comment": "Critical Mass is proud to introduce the latest in Halloween special characters, KANG!.  At 10\" tall, he is in scale with \"The Count\".  Kit price is $45 with $6 SH.  Contact Mike Petryszak at pzak@usit.net or phone (803) 796-7972"
+    },
+    {
+        "uid": 140,
+        "owner": 5338,
+        "updated": "1999-08-28 20:53:12",
+        "kit": 4783,
+        "buildup": 0,
+        "path": "Ingrid",
+        "comment": "This is the second in Shapeshifters 'Hammers Horrors'.\nAvailable from Shapeshifters on shapeshifters@cableinet.co.uk\nor for U.S.A. sales contact Nocturna products \nP.O.Box 160859\nNashville\nT.N. 37216-0859"
+    },
+    {
+        "uid": 141,
+        "owner": 18,
+        "updated": "1999-09-07 21:44:24",
+        "kit": 4796,
+        "buildup": 0,
+        "path": "guinevere",
+        "comment": "At 14 inches tall this is one breathtaking queen! Guinevere is holding court in King Arthur's absence.  For protection from foes, noble Arthur has provided Guinevere with the mighty sword, Excaliber.  For protection from Sir Lancelot he has locked her in a chastity belt!\n\n<p>\nLet your eyes entice you backwards in time ... to court with\n<b><a href=\"http://www.gremlins.com/azimuth_design/guinevere.html\">Guinevere</a></b>!\n</p>"
+    },
+    {
+        "uid": 142,
+        "owner": 5131,
+        "updated": "1999-09-09 21:41:50",
+        "kit": 4797,
+        "buildup": 0,
+        "path": "louder",
+        "comment": "The first release for Stonehenge Prod.\nA relief plaque approx. 10\" X 10\" sq.\n"
+    },
+    {
+        "uid": 143,
+        "owner": 5338,
+        "updated": "1999-09-29 04:56:51",
+        "kit": 4802,
+        "buildup": 0,
+        "path": "mummy",
+        "comment": "Newest in Shapeshifters \"Hammers Horrors\" is Christopher Lee as'The Mummy'"
+    },
+    {
+        "uid": 144,
+        "owner": 5338,
+        "updated": "1999-09-29 05:13:25",
+        "kit": 4803,
+        "buildup": 0,
+        "path": "frank",
+        "comment": "Available from October is the fourth of Shapeshifters \"Hammers Horrors\".  This portrays New\n           Zealand actor/wrestler Kiwi Kingston in Hammer make-up artist Roy Ashtons interpretation of the\n           Frankenstein monster. "
+    },
+    {
+        "uid": 146,
+        "owner": 5201,
+        "updated": "1999-10-03 16:36:41",
+        "kit": 4807,
+        "buildup": 0,
+        "path": "vamp",
+        "comment": "1/1 scale vampire bust,cast in four pieces .\nPrice is \u00a399.99 + shipping, Available direct from mooncrest models Po box 12562 New Southgate London England N11 1RW"
+    },
+    {
+        "uid": 148,
+        "owner": 5201,
+        "updated": "1999-10-04 08:08:21",
+        "kit": 4810,
+        "buildup": 0,
+        "path": "gremlin_door",
+        "comment": "1/1 scale four part kit, price is \u00a345.00 + shipping available from Mooncrest models Po box 12562 New southgate London England N11 1RW"
+    },
+    {
+        "uid": 151,
+        "owner": 157,
+        "updated": "1999-10-04 22:26:35",
+        "kit": 4815,
+        "buildup": 0,
+        "path": "zyanya",
+        "comment": "For orders outside Mexico, you can directly contact \"Puff & Stuff\"."
+    },
+    {
+        "uid": 153,
+        "owner": 4863,
+        "updated": "1999-10-09 15:07:58",
+        "kit": 4832,
+        "buildup": 0,
+        "path": "jennifer1",
+        "comment": "Jennifer, JJ Models Sexy Series n\u00b09\nGold Edition! Real Hair and Skirt!!\nHigh Quality details\nOnly 1.000 pcs. A)Certificate B)Card to Collect c)Comics Introducing!!\nPre-Order your copy by E-mail!\nwww.JJMODELS.com\n"
+    },
+    {
+        "uid": 157,
+        "owner": 5559,
+        "updated": "2000-08-31 22:34:23",
+        "kit": 4853,
+        "buildup": 0,
+        "path": "believe",
+        "comment": "Believe is a 1/1 scale resin bust availible from Pinkerton FX. This piece stands over 14 inches tall and weighs in at 6lbs.\n<p>\nFor more info please email pinkfx@raex.com or check out our ever growing web site at: <a href=\"http://www.cygenus-studios.com/pinkfx\">http://www.cygenus-studios.com/pinkfx</a></p>"
+    },
+    {
+        "uid": 158,
+        "owner": 5559,
+        "updated": "2000-09-24 17:37:39",
+        "kit": 4854,
+        "buildup": 0,
+        "path": "littlegmen",
+        "comment": "Little Green Men is a one to one scale model that is NOW SHIPPING!!!He stands 24 inches tall and will come in 9 pieces. The head and body will be hollow cast with the legs,arms and gun solid cast as to balance the model better... If you are interested please contact me for price and further details!!!\n<p>\nFor more info please email pinkfx@raex.com or check out our ever growing web site at: <a href=\"http://www.cygenus-studios.com/pinkfx\">http://www.cygenus-studios.com/pinkfx</a></p>"
+    },
+    {
+        "uid": 161,
+        "owner": 4863,
+        "updated": "1999-11-03 22:54:08",
+        "kit": 4870,
+        "buildup": 0,
+        "path": "alexandra1",
+        "comment": "Alexandra Gold Edition - JJ Models Sexy Series Vol.4\nResin Model Kit With realistic Hair!Card to collect - certificate of warrantie - Comics introductions\nONLY 1.000 pcs. Pre-Order your copy by e-mail and get 10% off!\nOnly 1.000 pcs. "
+    },
+    {
+        "uid": 165,
+        "owner": 5533,
+        "updated": "1999-11-19 19:59:30",
+        "kit": 4878,
+        "buildup": 0,
+        "path": "WORMFULL",
+        "comment": "WORM BOY is a 8.25 inch tall Super Deform resin kit of the X Files character \"Fluke Man\". Worm Boy has 8 Resin pieces and 1 wood piece and sells for $60.00 plus $6.00 S/H inside of North America ($16.00 S/H outside of North America)\nPlease make cheque or money order in U.S. funds payable to:\nDave Coughtry\nand send to:\nCryptic Creations \nP.O. Box 81213\n6025 Sussex Ave.\nBurnaby, B.C. Canada\nV5H 4K2\nor contact us at:\nPh: (604)454-9779\nToll Free 1 877 Crypt FX (279-7839)\nEmail: crypticcreations@hotmail.com\n(Personal cheques take 2 weeks to clear at the bank so it will be quicker if you choose to send a money order)"
+    },
+    {
+        "uid": 166,
+        "owner": 5533,
+        "updated": "1999-11-29 10:44:34",
+        "kit": 4879,
+        "buildup": 0,
+        "path": "MAXFULL",
+        "comment": "MAXFERATU is a 8.5 inch tall Super Deform resin kit of Max Scherck's character Graf Orlock in the 1922 silent film \"Nosferatu; Eine Symphonie des Grauens\". Max comes in 4 Resin pieces and sells for $60.00 plus $6.00 S/H inside North America ($16.00 S/H outside North America).\nPlease make cheque or money order in U.S. funds payable to; Dave Coughtry and send to: Cryptic Creations\nP.O. Box 81213, \n6025 Sussex Ave.\nBuraby, B.C. Canada\nV5H 4K2 or contact us at:\nPh:(604)454-9779\nToll Free1 877 CRYPT FX (279-7839)\nEmail: crypticcreations@hotmail.com \n(Personal cheques take 2 weeks to clear at the bank so it will be quicker if you choose to send a money order)"
+    },
+    {
+        "uid": 168,
+        "owner": 5131,
+        "updated": "1999-11-22 08:29:54",
+        "kit": 4880,
+        "buildup": 0,
+        "path": "jackcrow",
+        "comment": "Sculpted by Wayne Hansen."
+    },
+    {
+        "uid": 176,
+        "owner": 4920,
+        "updated": "1999-12-28 23:23:56",
+        "kit": 4883,
+        "buildup": 0,
+        "path": "Maria",
+        "comment": "none"
+    },
+    {
+        "uid": 177,
+        "owner": 4863,
+        "updated": "1999-12-28 11:43:52",
+        "kit": 4902,
+        "buildup": 0,
+        "path": "AstronaveGoldrake1",
+        "comment": "Hiper Details Model and Poseable Arms! \nGrendizer Saucer resin kit, only 500 pieces Limited and Numbered edition.\nReisin Base included.\nwww.JJMODELS.com and for US residents\nwww.AnotherWorldDesigns.com\nOrder your copy now!"
+    },
+    {
+        "uid": 180,
+        "owner": 5201,
+        "updated": "2000-01-28 16:24:46",
+        "kit": 4912,
+        "buildup": 0,
+        "path": "moonbat",
+        "comment": "This 1/9 scale kit is the first in the series ,watch out, more of your favorite charcters to follow."
+    },
+    {
+        "uid": 181,
+        "owner": 5646,
+        "updated": "2000-02-05 15:40:49",
+        "kit": 4920,
+        "buildup": 0,
+        "path": "olivia",
+        "comment": "Olivia is always having a great time at the party.  Bring here home and start a party of your own.  Approximately one quarter scale in pressure cast resin.  See more of her on my site.   <a href=\"http://connect.to/Cyrano\">http://connect.to/Cyrano</a>"
+    },
+    {
+        "uid": 185,
+        "owner": 4863,
+        "updated": "2000-08-29 12:33:33",
+        "kit": 4926,
+        "buildup": 0,
+        "path": "Good1",
+        "comment": "A new Umbelivable Sculpture from the Land of Art...Italy!\nThe Kit includes Resin, clear Resin and white metal pieces.\n1000 piece limited & numbered Edition including a poster, warrantie certificate and collection Card.\nUS Resident can get it directly from AnotherWorld Designs LCC\nwww.anotherworlddesigns.com\nORDER YOUR COPY BY E_MAIL NOW!  "
+    },
+    {
+        "uid": 186,
+        "owner": 5619,
+        "updated": "2000-02-27 13:24:59",
+        "kit": 4929,
+        "buildup": 0,
+        "path": "PChaos",
+        "comment": "Blix studios present \"PRINCE OF CHAOS\" A model kit of the albino warrior and his black sword. It's 1/6 scale, comes in 9 pieces and retails for $85. For more info or more pictures of this fantasy kit. e-mail me or visit my website.  "
+    },
+    {
+        "uid": 187,
+        "owner": 4863,
+        "updated": "2000-03-03 11:42:56",
+        "kit": 4937,
+        "buildup": 0,
+        "path": "annausa1",
+        "comment": "The most beautiful \"Italian girls\" now avaialable from USA!!\nSHIPPING FREE! For a limited time\nwww.ANOTHERWORLDDESIGNS.com"
+    },
+    {
+        "uid": 188,
+        "owner": 5559,
+        "updated": "2000-03-06 23:40:20",
+        "kit": 4854,
+        "buildup": 0,
+        "path": "blaster",
+        "comment": "The Little Green Man's gun is NOW availible as a stand alone kit!!! The gun come in two parts and will reatil for $30.00 Please email me for details."
+    },
+    {
+        "uid": 190,
+        "owner": 4863,
+        "updated": "2000-03-17 12:08:54",
+        "kit": 4955,
+        "buildup": 0,
+        "path": "barbara1",
+        "comment": "A new Erotic Dream from JJ Models Italian Art! BARBARA: Sexy Series Vol 11 Limited and Numbered Editions 1.000 pcs only! Including Warranty,Card to collect and comics introdutions\nPre-Order Your copy by E-mail and get 10% OFF!\nwww.JJMODELS.com and for US residents www.ANOTHERWORLDDESIGNS.com"
+    },
+    {
+        "uid": 191,
+        "owner": 4931,
+        "updated": "2000-08-05 19:47:59",
+        "kit": 5052,
+        "buildup": 0,
+        "path": "chang",
+        "comment": "G-Force proudly announces General Chang, from Star Trek VI: The Undiscovered Country.<BR><BR>\n\nAn amazing likeness to Christopher Plummer!<BR><BR>\n\n- Bust: 4\", Base: 2\"<BR> \n- Sculpted by: Anthony Veilleux<BR>\n- Parts: 3 (2 resin, 1 brass)<BR><BR>\n\nPrice: $35.00 US + $5.00 shipping<BR><BR>\n\nFor more information, visit: <a href=\"http://www.gforcemodels.com/gforce/chang/chang.html\">www.gforcemodels.com</a>"
+    },
+    {
+        "uid": 192,
+        "owner": 18,
+        "updated": "2000-05-05 08:46:07",
+        "kit": 5056,
+        "buildup": 0,
+        "path": "arora",
+        "comment": "If you could ask one girl to go to the super-hero ball, cyborg reunion, an Egyptian dig, or to the mad monster party who would you ask?  <a href=\"http://www.gremlins.com/azimuth_design/arora.html\"><b>Arora</b></a> of course!  Mike James latest creation of a \"generic\" girl kit should put your imagination into overdrive!\n<p>\n<i>\"All dressed up and no where to go.\"</i>  That phrase just doesn't apply to Arora...\n</p>"
+    },
+    {
+        "uid": 193,
+        "owner": 5338,
+        "updated": "2000-05-12 01:46:36",
+        "kit": 5057,
+        "buildup": 0,
+        "path": "WEBnew",
+        "comment": "Shapeshifters announce the release of 'Christopher Lee' as 'Dracula'. The fifth release in the 'Hammers Horror's'.\nThis is 1/3rd scale bust, standing at 9.5inches tall. It is available direct from Shapeshifters. Please contact us for further information. To see more work from Shapeshifters please visit our web-site our view the Gremlins gallery."
+    },
+    {
+        "uid": 195,
+        "owner": 233,
+        "updated": "2000-05-14 21:19:10",
+        "kit": 4974,
+        "buildup": 0,
+        "path": "kai",
+        "comment": "Kaiju is a BIG kit limited to 500 castings.  Sculpted by Tony Spangler and cast by Mark Brokaw, this kit is sure to be a hit among Japanese monster fans!  Visit Artistic License Productions' home page to order yours!"
+    },
+    {
+        "uid": 196,
+        "owner": 5559,
+        "updated": "2000-09-24 17:39:18",
+        "kit": 5063,
+        "buildup": 0,
+        "path": "pickledpunk",
+        "comment": "The Pickled Punk is our third model kit.. This 1/2 scale resin model comes molded in translucent skin like resin and includes his very own storage/display container. Gross out your friends with these oddities!!! Over 6 inches long!!!\nThis little guy will make his first showing at this years Wonderfest... You can take him home for only $60.00 plus shipping and this includes his very own storage container! Own him today!!! "
+    },
+    {
+        "uid": 199,
+        "owner": 4931,
+        "updated": "2000-08-05 19:46:14",
+        "kit": 5066,
+        "buildup": 0,
+        "path": "mangalore",
+        "comment": "G-Force announces its newest kit: Mangalore, from The Fifth Element. <BR><BR>\n\nThis is truly a great piece, it's face is full of character and the textures and detailing are sharp.<BR><BR>\n\nSculpted by Bob Dufour, this 6\" resin bust (plus 3\" earth element stone base!) is available now for $50.00 + $5.00 shipping.<BR><BR>\n\nFor more information and detailed photos, visit:\n<a href=\"http://www.gforcemodels.com/gforce/mangalore/index.html\">gforcemodels.com</a>\n"
+    },
+    {
+        "uid": 200,
+        "owner": 4863,
+        "updated": "2000-08-29 12:29:35",
+        "kit": 5080,
+        "buildup": 0,
+        "path": "EVIL1",
+        "comment": "New era Art Series Vol.2 The essence of the Evil!\nStraordinary JJM Kit with pure resin, clear resin and metal parts!!\n\nYou can see more details of this Arttistic model on www.jjmodels.com or www.anotherworlddesigns.com"
+    },
+    {
+        "uid": 204,
+        "owner": 5889,
+        "updated": "2001-07-17 15:14:31",
+        "kit": 5132,
+        "buildup": 0,
+        "path": "reaper",
+        "comment": "1/6 scale model kit cleanly cast in 100% bubble free resin and white metal with base. For more information visit us at our website at http://anjara design.tripod.com or e-mail: anjaradesign@btinternet.com"
+    },
+    {
+        "uid": 205,
+        "owner": 5889,
+        "updated": "2001-07-17 15:16:17",
+        "kit": 5130,
+        "buildup": 0,
+        "path": "maul",
+        "comment": "1/6 scale model kit cleanly cast in 100%\r\nbubble free resin and white metal. For\r\nmore information visit us at our website\r\nat: http://anjaradesign.tripod.com or e-mail: anjaradesign@btinternet.com"
+    },
+    {
+        "uid": 208,
+        "owner": 5559,
+        "updated": "2000-09-14 00:13:15",
+        "kit": 5133,
+        "buildup": 0,
+        "path": "voodoobuddy",
+        "comment": "Voodoo Buddy is.. well not exactly a resin kit... but he still is loads of fun for the whole family! He comes complete with one Voodoo Buddy doll full box art, directions, three cursed stick pins, three mojo bones and binding twin... All pack in spanish moss to keep him safe until arrivial. For more infor and where to get your very own Voodoo Buddy contact Pinkerton FX. Voodoo Buddy retails for only $20.00 plus shipping!\n"
+    },
+    {
+        "uid": 212,
+        "owner": 5964,
+        "updated": "2000-09-13 08:51:33",
+        "kit": 5123,
+        "buildup": 0,
+        "path": "clin",
+        "comment": "Please see our\n<a href=\"http://www.tcn.zaq.ne.jp/akahd205/\">Web</a>.\n\nThe closest likeness to Dirty Harry (Clint Eastwood) \nthat you can get in any Model Kit in the world.\nSculpted by Jun Ozawa (B.O.S).\nPainted by Masataka Yoshio (Kaibutsuya)."
+    },
+    {
+        "uid": 216,
+        "owner": 4863,
+        "updated": "2001-01-06 11:51:42",
+        "kit": 5145,
+        "buildup": 0,
+        "path": "shadriel1",
+        "comment": "The New JJ Models Fantasy Series Kit!!\r\nShadreil The Sorceress!\r\nHigh Quality Resin kit with clear resin and metal parts included. \r\nLimited Editions Order your copy By E-mail Today!!www.JJMODELS.com or www.AnotherWorldDesigns.com (for US resident only)"
+    },
+    {
+        "uid": 217,
+        "owner": 4863,
+        "updated": "2001-01-11 11:33:33",
+        "kit": 5206,
+        "buildup": 0,
+        "path": "veronica1",
+        "comment": "A new Dangerous dream from JJ Models,\r\nVeronica,high quality resin kit, clear resin shoes! Limited Editions 1000pcs.\r\nOrder your copy! www.jjmodels.com and for US resident: www.anotherworlddesigns.com \r\n(censored edition)"
+    },
+    {
+        "uid": 218,
+        "owner": 5559,
+        "updated": "2001-02-06 02:30:50",
+        "kit": 5212,
+        "buildup": 0,
+        "path": "punkenstein1",
+        "comment": "Ok guys and gals!!! Punkenstein will have his debut at the spring Chiller Show but for those of you who cant wait I am taking pre-orders now for this little bugger!!! The sale will last till the end of February at witch time Punkenstein will return to his normal retail price! The kit will include one Punkenstein (unpainted) cast in off white resin, chains, storage container, and his very own bundle of daises\u2026 The pre-order price for all this will be $45.00 plus $5.00 shipping and handling. Pre-ordered kits will start shipping by the middle of next month so do not delay! In progress photos ...Email me for further details!\r\n\r\n\r\n\r\nLater\r\nJohn Pinkerton \r\nPinkerton FX \r\n  \r\n"
+    },
+    {
+        "uid": 219,
+        "owner": 5559,
+        "updated": "2001-02-06 02:47:34",
+        "kit": 5213,
+        "buildup": 0,
+        "path": "bonecollector",
+        "comment": "No not the recent movie... But a new model my company has released! Somewhere between ape and man the Bone Collector is the missing link. Inspired by 2001 A Space Odessey... Frank Frazeta and my own imagination... I hope you like this one! Let me know what you think.. Bone Collector sells for $99.00 plus $8.00 shipping and handleing... Email me for all the details!"
+    },
+    {
+        "uid": 220,
+        "owner": 5559,
+        "updated": "2001-02-06 02:59:11",
+        "kit": 5213,
+        "buildup": 0,
+        "path": "boney",
+        "comment": "base detail"
+    },
+    {
+        "uid": 221,
+        "owner": 6128,
+        "updated": "2001-07-17 17:29:19",
+        "kit": 5238,
+        "buildup": 0,
+        "path": "cycl",
+        "comment": "This accurate version of this classic beast depicts the lumbersome giant finding something \"familiar\" washed ashore.  Comes with highly detailed beach-scape base.  $69.00 plus $6.00 s/h"
+    },
+    {
+        "uid": 222,
+        "owner": 6128,
+        "updated": "2001-07-17 17:29:06",
+        "kit": 5240,
+        "buildup": 0,
+        "path": "cent",
+        "comment": "This highly accurate, dramatic death struggle comes with shattered-stone base.  15 inches to top of hand.  $78.00 plus $6.00 s/h"
+    },
+    {
+        "uid": 223,
+        "owner": 6128,
+        "updated": "2001-07-17 17:28:50",
+        "kit": 5239,
+        "buildup": 0,
+        "path": "trog",
+        "comment": "This quality kit depicts the troglodyte in a fight for his life, as the wounds of giant cat claws bleed freely.  Comes with shrine floor base.  $55.00 plus $6.00 s/h"
+    },
+    {
+        "uid": 224,
+        "owner": 5559,
+        "updated": "2001-07-10 23:53:53",
+        "kit": 5212,
+        "buildup": 0,
+        "path": "punkenstein3",
+        "comment": ""
+    },
+    {
+        "uid": 225,
+        "owner": 6114,
+        "updated": "2001-07-11 04:40:59",
+        "kit": 5264,
+        "buildup": 0,
+        "path": "greymatter",
+        "comment": ""
+    },
+    {
+        "uid": 226,
+        "owner": 6127,
+        "updated": "2001-07-12 21:21:39",
+        "kit": 5261,
+        "buildup": 0,
+        "path": "clint",
+        "comment": "1/6 scale resin kit with base Clint Eastwood with gun drawn. This kit ships right away for a price of 55.00 + shipping."
+    },
+    {
+        "uid": 227,
+        "owner": 6230,
+        "updated": "2001-07-24 19:42:24",
+        "kit": 5280,
+        "buildup": 0,
+        "path": "hunter1",
+        "comment": ""
+    },
+    {
+        "uid": 228,
+        "owner": 6230,
+        "updated": "2001-07-24 19:40:50",
+        "kit": 5280,
+        "buildup": 0,
+        "path": "hunter1",
+        "comment": ""
+    },
+    {
+        "uid": 229,
+        "owner": 4863,
+        "updated": "2001-07-31 08:32:20",
+        "kit": 5281,
+        "buildup": 0,
+        "path": "valerie1",
+        "comment": ""
+    },
+    {
+        "uid": 230,
+        "owner": 6127,
+        "updated": "2001-08-04 21:24:44",
+        "kit": 5304,
+        "buildup": 0,
+        "path": "MAX",
+        "comment": "Comming in August from www.resin_image.com"
+    },
+    {
+        "uid": 231,
+        "owner": 4863,
+        "updated": "2001-08-08 06:20:16",
+        "kit": 5306,
+        "buildup": 0,
+        "path": "daminar1",
+        "comment": ""
+    },
+    {
+        "uid": 232,
+        "owner": 4863,
+        "updated": "2001-08-08 06:22:29",
+        "kit": 5306,
+        "buildup": 0,
+        "path": "Daminar1",
+        "comment": ""
+    },
+    {
+        "uid": 233,
+        "owner": 4863,
+        "updated": "2001-08-08 06:23:08",
+        "kit": 5306,
+        "buildup": 0,
+        "path": "Daminar1",
+        "comment": ""
+    },
+    {
+        "uid": 234,
+        "owner": 6127,
+        "updated": "2001-10-30 20:25:55",
+        "kit": 5304,
+        "buildup": 0,
+        "path": "MAXPICS",
+        "comment": "1/6 scale Mad Max resin kit, The likeness to Max is the best. All pressure cast parts excellent quality \r\nwww.resin-image.com or email brett@resin-image.com"
+    },
+    {
+        "uid": 235,
+        "owner": 6243,
+        "updated": "2001-11-01 07:47:12",
+        "kit": 5315,
+        "buildup": 0,
+        "path": "calface",
+        "comment": "CALIBOS: THE VILE PRINCE from Burroughs Model Works."
+    },
+    {
+        "uid": 236,
+        "owner": 6252,
+        "updated": "2001-11-24 00:05:18",
+        "kit": 5317,
+        "buildup": 0,
+        "path": "sdzeram",
+        "comment": "Caricature intergalactic psychopath! \r\nDefinately not cute....... 5 pieces of resin standing 150mm tall when assembled \u00a314.95 plus postage at cost."
+    },
+    {
+        "uid": 237,
+        "owner": 6312,
+        "updated": "2001-11-03 10:23:58",
+        "kit": 3476,
+        "buildup": 0,
+        "path": "",
+        "comment": ""
+    },
+    {
+        "uid": 238,
+        "owner": 5201,
+        "updated": "2001-11-07 13:28:35",
+        "kit": 4912,
+        "buildup": 0,
+        "path": "",
+        "comment": ""
+    },
+    {
+        "uid": 239,
+        "owner": 6252,
+        "updated": "2001-11-24 00:03:54",
+        "kit": 5326,
+        "buildup": 0,
+        "path": "predbust",
+        "comment": "LIFESIZE PREDATOR BUST - 20 SEPERATE TEETH, 48 SEPERATE RUBBER DREADLOCKS, 7 RESIN GUN PARTS...... 2ft by 2ft by 18 inch of mental mayhem!!"
+    },
+    {
+        "uid": 240,
+        "owner": 5201,
+        "updated": "2001-11-10 06:31:21",
+        "kit": 5327,
+        "buildup": 0,
+        "path": "",
+        "comment": ""
+    },
+    {
+        "uid": 241,
+        "owner": 5201,
+        "updated": "2001-11-16 06:02:12",
+        "kit": 5327,
+        "buildup": 0,
+        "path": "superman.jpg",
+        "comment": "Our hero off to do battle with the forces of evil,  Kit price and all details on our web site"
+    },
+    {
+        "uid": 242,
+        "owner": 5201,
+        "updated": "2001-11-12 15:29:31",
+        "kit": 5329,
+        "buildup": 0,
+        "path": "blade.jpg",
+        "comment": "The unsual hero of the underworld walk among us"
+    },
+    {
+        "uid": 243,
+        "owner": 6252,
+        "updated": "2001-11-25 02:12:04",
+        "kit": 5344,
+        "buildup": 0,
+        "path": "frankenstone_icon",
+        "comment": "small scale, big on character!\r\nFrankenstone is our tribute to a classic horror icon...."
+    },
+    {
+        "uid": 244,
+        "owner": 6252,
+        "updated": "2001-11-25 02:11:39",
+        "kit": 5345,
+        "buildup": 0,
+        "path": "goldfinger",
+        "comment": "Gert Frobe in his memorable role as Bonds arch enemy..... comes with case of gold bars..... no real ones of course! "
+    },
+    {
+        "uid": 245,
+        "owner": 6252,
+        "updated": "2001-11-25 02:16:10",
+        "kit": 5346,
+        "buildup": 0,
+        "path": "lazenby",
+        "comment": "George Lazenby in the role of Bond, part of our growing range of Bond kits."
+    },
+    {
+        "uid": 246,
+        "owner": 6252,
+        "updated": "2001-11-27 04:48:28",
+        "kit": 5347,
+        "buildup": 0,
+        "path": "vampire",
+        "comment": "Tribal vampire - a modern day blood sucker! 1:1 scale based on a life(?)cast.. comes with piercing jewellery and a base..... 22inches tall...\r\nUK399.95 USA contact us for a price - we ship worldwide!"
+    },
+    {
+        "uid": 247,
+        "owner": 6252,
+        "updated": "2001-12-02 02:57:13",
+        "kit": 5349,
+        "buildup": 0,
+        "path": "slip",
+        "comment": "Slipknot front man captured in 1:3 scale resin bust!\r\nComes with Pentagram topped base and 10 seperate wire dreadlocks......\r\nUK 24.95 - we ship worldwide, contact us for prices......."
+    },
+    {
+        "uid": 248,
+        "owner": 6391,
+        "updated": "2001-12-13 14:17:43",
+        "kit": 5352,
+        "buildup": 0,
+        "path": "http://www.realalien.com",
+        "comment": "This 13.5\" polyresin sculpture is what is commonly called \"The Grey\". it is a fine quality item and comes packaged in a gloss black box and custom foam. Based on eyewitness accounts. It can be purchased at \r\nhttp://www.realalien.com"
+    },
+    {
+        "uid": 249,
+        "owner": 6391,
+        "updated": "2001-12-13 14:12:37",
+        "kit": 5352,
+        "buildup": 0,
+        "path": "http://www.realalien.com",
+        "comment": "This 13.5\" polyresin sculpture is what is commonly called \"The Grey\". it is a fine quality item and comes packaged in a gloss black box and custom foam. Based on eyewitness accounts."
+    },
+    {
+        "uid": 250,
+        "owner": 6243,
+        "updated": "2001-12-27 12:36:12",
+        "kit": 5356,
+        "buildup": 0,
+        "path": "CentWaist",
+        "comment": "More than a mere kit, an entire diorama that emits a strange mood of erie tribal culture.  A stunning version of the Golden Voyage Centaur.  Unprecedented in likness and accuracy."
+    },
+    {
+        "uid": 251,
+        "owner": 6243,
+        "updated": "2001-12-27 12:36:35",
+        "kit": 5355,
+        "buildup": 0,
+        "path": "Ancclose",
+        "comment": "Extremely accurate and dynamic version of the Troglodyte. "
+    },
+    {
+        "uid": 252,
+        "owner": 5569,
+        "updated": "2001-12-29 10:51:34",
+        "kit": 3476,
+        "buildup": 0,
+        "path": "",
+        "comment": ""
+    },
+    {
+        "uid": 253,
+        "owner": 5569,
+        "updated": "2001-12-29 11:23:10",
+        "kit": 5357,
+        "buildup": 0,
+        "path": "Wishmaster3",
+        "comment": "BudgiesKits announces The Wishmaster"
+    },
+    {
+        "uid": 254,
+        "owner": 6252,
+        "updated": "2002-01-02 00:27:42",
+        "kit": 5326,
+        "buildup": 0,
+        "path": "",
+        "comment": "the largest commercially available bust of the Predator 2 character currently on the market!"
+    },
+    {
+        "uid": 255,
+        "owner": 6387,
+        "updated": "2002-01-15 10:36:36",
+        "kit": 3476,
+        "buildup": 0,
+        "path": "",
+        "comment": "Rosaline 11\" figurine by Nexus Sculpture"
+    },
+    {
+        "uid": 256,
+        "owner": 6387,
+        "updated": "2002-01-15 12:24:21",
+        "kit": 5372,
+        "buildup": 0,
+        "path": "gremach",
+        "comment": "New 1/12th scale kit from Nexus Sculpture"
+    },
+    {
+        "uid": 257,
+        "owner": 6252,
+        "updated": "2002-02-11 23:33:43",
+        "kit": 5380,
+        "buildup": 0,
+        "path": "monkey",
+        "comment": "The nature of Monkey is irrepresable!\r\nNow you can grace your workbench with this 1:6 scale rendering of the TV classic hero........ UK 49.95 - We ship world wide!"
+    },
+    {
+        "uid": 258,
+        "owner": 5933,
+        "updated": "2002-02-26 16:01:35",
+        "kit": 5381,
+        "buildup": 0,
+        "path": "",
+        "comment": ""
+    },
+    {
+        "uid": 259,
+        "owner": 5619,
+        "updated": "2002-03-03 20:37:09",
+        "kit": 5382,
+        "buildup": 0,
+        "path": "Witch",
+        "comment": ""
+    },
+    {
+        "uid": 260,
+        "owner": 5619,
+        "updated": "2002-03-03 20:44:45",
+        "kit": 5382,
+        "buildup": 0,
+        "path": "Witch",
+        "comment": ""
+    },
+    {
+        "uid": 261,
+        "owner": 6243,
+        "updated": "2002-03-05 14:47:33",
+        "kit": 5383,
+        "buildup": 0,
+        "path": "Close_bite",
+        "comment": "Huge, highly detailed and accurate resin model of the 1976 KING KONG."
+    },
+    {
+        "uid": 262,
+        "owner": 6252,
+        "updated": "2002-05-04 01:13:15",
+        "kit": 5387,
+        "buildup": 0,
+        "path": "",
+        "comment": "hop on over to http://www.gremlynz.com select your region and then \"new releases\" to see pictures of our stunning new kit from sculptor Dave Lewis....... large size Space Jockey in resin!!"
+    },
+    {
+        "uid": 263,
+        "owner": 6252,
+        "updated": "2002-06-04 11:57:03",
+        "kit": 5388,
+        "buildup": 0,
+        "path": "",
+        "comment": "Dave Lewis does it again - GORT from Day the Earth Stood Still - optional visor to allow for visor open or shut and base with scenes from the classic film!"
+    },
+    {
+        "uid": 264,
+        "owner": 6252,
+        "updated": "2002-06-09 01:09:41",
+        "kit": 5389,
+        "buildup": 0,
+        "path": "",
+        "comment": "Dave Lewis sculpts up another brilliant bust - Klatuu from The Day The Earth Stood Still!\r\n210mm tall - seperate head or helmeted head and scenic base.... hop on over to http://www.gremlynz.com for pictures and prices!"
+    },
+    {
+        "uid": 265,
+        "owner": 5403,
+        "updated": "2002-09-05 16:55:04",
+        "kit": 5437,
+        "buildup": 0,
+        "path": "ramses",
+        "comment": ""
+    },
+    {
+        "uid": 266,
+        "owner": 5350,
+        "updated": "2002-09-07 11:36:41",
+        "kit": 5393,
+        "buildup": 0,
+        "path": "Chained",
+        "comment": "1/8 scale, 5 1/2\"tall, 9 interlocking part resin kit.\r\nPlease visit my website for more Dream Master kits at www.angelfire.com/il2/dreammaster"
+    },
+    {
+        "uid": 267,
+        "owner": 6546,
+        "updated": "2002-10-17 14:29:44",
+        "kit": 3476,
+        "buildup": 0,
+        "path": "",
+        "comment": ""
+    },
+    {
+        "uid": 268,
+        "owner": 6252,
+        "updated": "2003-02-06 23:32:49",
+        "kit": 5502,
+        "buildup": 0,
+        "path": "",
+        "comment": "1:1 scale Freddy bust - visit our website for image as the uploader here still seems kaput!\r\nhttp://www.gremlynz.com"
+    },
+    {
+        "uid": 269,
+        "owner": 4864,
+        "updated": "2003-03-26 13:00:46",
+        "kit": 5491,
+        "buildup": 0,
+        "path": "",
+        "comment": ""
+    },
+    {
+        "uid": 270,
+        "owner": 5633,
+        "updated": "2003-06-07 12:18:27",
+        "kit": 5545,
+        "buildup": 0,
+        "path": "george",
+        "comment": "George Harrison in concert in 1964  \r\nthis kit is made in poliuretane resin and it comes accompanied by one  replica of their Gretsch electric guitar  \r\nthe kit doesn't include the strings of the guitar neither the conecci\u00f3n cable"
+    },
+    {
+        "uid": 271,
+        "owner": 6252,
+        "updated": "2003-08-22 10:02:10",
+        "kit": 5551,
+        "buildup": 0,
+        "path": "",
+        "comment": "gremlyn lord on throne with concubine, pet toad and boxes of munchies! \r\nhop on over to http://www.gremlynz.com for more details"
+    },
+    {
+        "uid": 272,
+        "owner": 5201,
+        "updated": "2003-11-04 07:54:51",
+        "kit": 5553,
+        "buildup": 0,
+        "path": "",
+        "comment": "check out the Mooncrest web site for all the details"
+    },
+    {
+        "uid": 273,
+        "owner": 5633,
+        "updated": "2004-05-13 15:13:44",
+        "kit": 5545,
+        "buildup": 0,
+        "path": "",
+        "comment": ""
+    },
+    {
+        "uid": 274,
+        "owner": 5633,
+        "updated": "2004-05-13 16:10:28",
+        "kit": 5576,
+        "buildup": 0,
+        "path": "darthmaul",
+        "comment": "Fito's Model Kit proudly presents \"THE DISCIPLE\"\r\nIn Scale 1/6, Made in 8 poliurethane resin parts"
+    },
+    {
+        "uid": 275,
+        "owner": 5575,
+        "updated": "2006-01-22 08:49:37",
+        "kit": 3965,
+        "buildup": 0,
+        "path": "",
+        "comment": ""
+    },
+    {
+        "uid": 276,
+        "owner": 5575,
+        "updated": "2006-01-24 04:32:51",
+        "kit": 3965,
+        "buildup": 0,
+        "path": "dark",
+        "comment": ""
+    },
+    {
+        "uid": 277,
+        "owner": 307,
+        "updated": "2007-07-08 15:38:31",
+        "kit": 5580,
+        "buildup": 0,
+        "path": "",
+        "comment": ""
+    }
+]
