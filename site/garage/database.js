@@ -23850,16 +23850,6 @@ const buildup_items = [
         "comment": "My second kit using an airbrush. Details added using enamels"
     },
     {
-        "uid": 2857,
-        "owner": 6473,
-        "updated": "2002-04-22 15:24:58",
-        "kit": 3213,
-        "painter": 6473,
-        "path": "",
-        "custom": 0,
-        "comment": ""
-    },
-    {
         "uid": 2858,
         "owner": 6470,
         "updated": "2002-04-11 17:24:36",
