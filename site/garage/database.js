@@ -14825,7 +14825,7 @@ const buildup_items = [
         "updated": "1998-09-19 13:31:41",
         "kit": 3919,
         "painter": 5237,
-        "path": "Vampirella",
+        "path": "vampirella",
         "custom": 0,
         "comment": "This figure was Converted from a Horizon Dark Phoenix Vinyl kit"
     },
@@ -25775,17 +25775,7 @@ const buildup_items = [
         "updated": "2004-04-11 09:45:32",
         "kit": 5575,
         "painter": 5547,
-        "path": "CreatureWalksAmongUsBust2.jpg",
-        "custom": 0,
-        "comment": ""
-    },
-    {
-        "uid": 3061,
-        "owner": 5547,
-        "updated": "2004-04-11 09:46:16",
-        "kit": 5575,
-        "painter": 5547,
-        "path": "CreatureWalksAmongUsBust2.jpg",
+        "path": "CreatureWalksAmongUsBust2",
         "custom": 0,
         "comment": ""
     },
@@ -118569,24 +118559,6 @@ const bite_items = [
         "kit": 5306,
         "buildup": 0,
         "path": "daminar1",
-        "comment": ""
-    },
-    {
-        "uid": 232,
-        "owner": 4863,
-        "updated": "2001-08-08 06:22:29",
-        "kit": 5306,
-        "buildup": 0,
-        "path": "Daminar1",
-        "comment": ""
-    },
-    {
-        "uid": 233,
-        "owner": 4863,
-        "updated": "2001-08-08 06:23:08",
-        "kit": 5306,
-        "buildup": 0,
-        "path": "Daminar1",
         "comment": ""
     },
     {
