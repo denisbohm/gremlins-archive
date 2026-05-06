@@ -22610,16 +22610,6 @@ const buildup_items = [
         "comment": ""
     },
     {
-        "uid": 2724,
-        "owner": 4863,
-        "updated": "2001-08-08 06:22:54",
-        "kit": 5306,
-        "painter": 5431,
-        "path": "Daminar1",
-        "custom": 0,
-        "comment": ""
-    },
-    {
         "uid": 2725,
         "owner": 5435,
         "updated": "2001-08-16 03:46:37",
@@ -22988,36 +22978,6 @@ const buildup_items = [
         "path": "Bride2",
         "custom": 0,
         "comment": ""
-    },
-    {
-        "uid": 2764,
-        "owner": 5319,
-        "updated": "2001-11-16 12:48:33",
-        "kit": 4778,
-        "painter": 5319,
-        "path": "gorehound",
-        "custom": 0,
-        "comment": "Great Kit. needs very little clean up. Excellent detail in the fur and the victim."
-    },
-    {
-        "uid": 2765,
-        "owner": 5319,
-        "updated": "2001-11-16 12:49:11",
-        "kit": 4778,
-        "painter": 5319,
-        "path": "gorehound",
-        "custom": 0,
-        "comment": "Great Kit. needs very little clean up. Excellent detail in the fur and the victim."
-    },
-    {
-        "uid": 2766,
-        "owner": 5319,
-        "updated": "2001-11-16 12:49:37",
-        "kit": 4778,
-        "painter": 5319,
-        "path": "Gorehound",
-        "custom": 0,
-        "comment": "Great Kit. needs very little clean up. Excellent detail in the fur and the victim."
     },
     {
         "uid": 2767,
@@ -23560,26 +23520,6 @@ const buildup_items = [
         "comment": "Sculpted by Jim Davidson, solid resin cast kit, 11\" tall, $150.00"
     },
     {
-        "uid": 2828,
-        "owner": 5764,
-        "updated": "2002-01-30 11:04:52",
-        "kit": 4970,
-        "painter": 5764,
-        "path": "Kongsacrifice_icon",
-        "custom": 0,
-        "comment": ""
-    },
-    {
-        "uid": 2829,
-        "owner": 5764,
-        "updated": "2002-01-30 11:22:04",
-        "kit": 4970,
-        "painter": 5764,
-        "path": "Sacrifice_icon.gif",
-        "custom": 0,
-        "comment": ""
-    },
-    {
         "uid": 2830,
         "owner": 5764,
         "updated": "2002-01-30 12:15:31",
@@ -23745,7 +23685,7 @@ const buildup_items = [
         "updated": "2002-02-24 14:13:24",
         "kit": 5381,
         "painter": 5927,
-        "path": "crissy0.jpg",
+        "path": "crissy0",
         "custom": 0,
         "comment": "This kit is a tribute to Jaws. It features the female swimmer in the opening scene. Kit contains 2 resin pieces, one is the translucent green water base and the other is the flesh colored resin figure. finished size is 9 1/2\" in length,7 1/2\" wide and 4\" high."
     },
@@ -23845,7 +23785,7 @@ const buildup_items = [
         "updated": "2002-04-05 07:19:17",
         "kit": 3752,
         "painter": 5411,
-        "path": "C:\\Mes documents\\perso\\images\\images_gremlins\\alex",
+        "path": "alex",
         "custom": 0,
         "comment": "My second kit using an airbrush. Details added using enamels"
     },
@@ -24445,7 +24385,7 @@ const buildup_items = [
         "updated": "2002-09-06 08:18:49",
         "kit": 5443,
         "painter": 5411,
-        "path": "OffH",
+        "path": "Offh",
         "custom": 0,
         "comment": ""
     },
@@ -24456,16 +24396,6 @@ const buildup_items = [
         "kit": 5444,
         "painter": 5411,
         "path": "rob",
-        "custom": 0,
-        "comment": ""
-    },
-    {
-        "uid": 2919,
-        "owner": 5350,
-        "updated": "2002-09-07 11:31:43",
-        "kit": 5393,
-        "painter": 5702,
-        "path": "Chained.jpg",
         "custom": 0,
         "comment": ""
     },
@@ -24540,22 +24470,12 @@ const buildup_items = [
         "comment": "the kit is vinyl,not resin..painted with a mixture or acrylics and oils.."
     },
     {
-        "uid": 2932,
-        "owner": 6604,
-        "updated": "2002-11-16 12:16:58",
-        "kit": 4520,
-        "painter": 6604,
-        "path": "cyclops jpg",
-        "custom": 0,
-        "comment": ""
-    },
-    {
         "uid": 2933,
         "owner": 6604,
         "updated": "2002-11-16 12:55:13",
         "kit": 4520,
         "painter": 6604,
-        "path": "cyclops",
+        "path": "cyclops2",
         "custom": 0,
         "comment": ""
     },
@@ -25550,16 +25470,6 @@ const buildup_items = [
         "comment": "Sometimes you see a kit and you know immediately that you have to build it. Such was the case with the Neko Rei kit, which represents my favorite scene in Neon Genesis Evangelion. You know, the one where Rei says \"Gawd, I feel sexy!\", climbs down out of her Eva, puts on a cat costume, and spends the next three hours giving Shinji a tongue bath...\r\n\r\nMore pics at http://web.utk.edu/~north"
     },
     {
-        "uid": 3036,
-        "owner": 4863,
-        "updated": "2003-12-03 06:17:41",
-        "kit": 5555,
-        "painter": 149,
-        "path": "ladyalex",
-        "custom": 0,
-        "comment": "Dark Ladies Collection on www.jjmodels.com"
-    },
-    {
         "uid": 3037,
         "owner": 6504,
         "updated": "2004-01-25 11:35:19",
@@ -25836,26 +25746,6 @@ const buildup_items = [
         "kit": 5578,
         "painter": 6294,
         "path": "Logan",
-        "custom": 0,
-        "comment": ""
-    },
-    {
-        "uid": 3068,
-        "owner": 5575,
-        "updated": "2006-01-24 04:32:16",
-        "kit": 3965,
-        "painter": 5575,
-        "path": "dark",
-        "custom": 0,
-        "comment": ""
-    },
-    {
-        "uid": 3069,
-        "owner": 5575,
-        "updated": "2006-01-24 04:27:43",
-        "kit": 3965,
-        "painter": 5575,
-        "path": "dark1",
         "custom": 0,
         "comment": ""
     },
@@ -57472,7 +57362,7 @@ const contact_items = [
         "owner": 6456,
         "updated": "2002-09-03 09:03:59",
         "name": "Santiago Molto",
-        "path": "santiago_molt\u00f3_guti\u00e9rrez",
+        "path": "santiago_moltgutirrez",
         "url": "http://www.alfamodel.com",
         "password": "alfarocco",
         "email": "info@alfamodel.com",
@@ -118630,7 +118520,7 @@ const bite_items = [
         "updated": "2001-11-16 06:02:12",
         "kit": 5327,
         "buildup": 0,
-        "path": "superman.jpg",
+        "path": "superman",
         "comment": "Our hero off to do battle with the forces of evil,  Kit price and all details on our web site"
     },
     {
@@ -118639,7 +118529,7 @@ const bite_items = [
         "updated": "2001-11-12 15:29:31",
         "kit": 5329,
         "buildup": 0,
-        "path": "blade.jpg",
+        "path": "blade",
         "comment": "The unsual hero of the underworld walk among us"
     },
     {
@@ -118648,7 +118538,7 @@ const bite_items = [
         "updated": "2001-11-25 02:12:04",
         "kit": 5344,
         "buildup": 0,
-        "path": "frankenstone_icon",
+        "path": "frankenstone",
         "comment": "small scale, big on character!\r\nFrankenstone is our tribute to a classic horror icon...."
     },
     {
