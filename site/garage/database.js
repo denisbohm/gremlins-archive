@@ -154,7 +154,7 @@ const buildup_items = [
         "owner": 6,
         "updated": "2001-01-03 11:20:40",
         "kit": 3895,
-        "painter": 149,
+        "painter": 201,
         "path": "barnbust",
         "custom": 0,
         "comment": null
@@ -164,7 +164,7 @@ const buildup_items = [
         "owner": 6,
         "updated": "2001-01-03 11:20:40",
         "kit": 3221,
-        "painter": 149,
+        "painter": 201,
         "path": "barnfrid",
         "custom": 1,
         "comment": null
@@ -184,7 +184,7 @@ const buildup_items = [
         "owner": 6,
         "updated": "2001-01-03 11:20:40",
         "kit": 3222,
-        "painter": 149,
+        "painter": 201,
         "path": "masque",
         "custom": 1,
         "comment": null
@@ -194,7 +194,7 @@ const buildup_items = [
         "owner": 6,
         "updated": "2001-01-03 11:20:40",
         "kit": 3223,
-        "painter": 149,
+        "painter": 201,
         "path": "toxic",
         "custom": 1,
         "comment": null
@@ -22905,7 +22905,7 @@ const buildup_items = [
         "updated": "2001-11-11 16:09:45",
         "kit": 4778,
         "painter": 149,
-        "path": "gorehound",
+        "path": "Gorehound",
         "custom": 0,
         "comment": ""
     },
@@ -22925,7 +22925,7 @@ const buildup_items = [
         "updated": "2001-11-12 15:18:59",
         "kit": 5329,
         "painter": 5251,
-        "path": "blade.jpeg",
+        "path": "blade",
         "custom": 0,
         "comment": "painted using humbrol enamels"
     },
@@ -22935,7 +22935,7 @@ const buildup_items = [
         "updated": "2001-11-12 15:34:29",
         "kit": 5327,
         "painter": 5251,
-        "path": "superman.jpg",
+        "path": "superman",
         "custom": 0,
         "comment": "I love this charcter, 50s style superman"
     },
@@ -23248,16 +23248,6 @@ const buildup_items = [
         "path": "Eyedio",
         "custom": 0,
         "comment": "A dead on version of this massive beast!"
-    },
-    {
-        "uid": 2796,
-        "owner": 6243,
-        "updated": "2001-12-27 12:52:25",
-        "kit": 5355,
-        "painter": 6243,
-        "path": "Ancclose",
-        "custom": 0,
-        "comment": ""
     },
     {
         "uid": 2797,
@@ -23685,7 +23675,7 @@ const buildup_items = [
         "updated": "2002-02-24 14:13:24",
         "kit": 5381,
         "painter": 5927,
-        "path": "crissy0",
+        "path": "chrissy0",
         "custom": 0,
         "comment": "This kit is a tribute to Jaws. It features the female swimmer in the opening scene. Kit contains 2 resin pieces, one is the translucent green water base and the other is the flesh colored resin figure. finished size is 9 1/2\" in length,7 1/2\" wide and 4\" high."
     },
@@ -23935,7 +23925,7 @@ const buildup_items = [
         "updated": "2002-09-03 08:42:17",
         "kit": 5385,
         "painter": 6456,
-        "path": "www.alfamodel.com",
+        "path": "barb",
         "custom": 0,
         "comment": ""
     },
@@ -24465,7 +24455,7 @@ const buildup_items = [
         "updated": "2003-01-12 09:12:30",
         "kit": 4520,
         "painter": 54,
-        "path": "cyclops jpg",
+        "path": "cyclops2",
         "custom": 0,
         "comment": "the kit is vinyl,not resin..painted with a mixture or acrylics and oils.."
     },
@@ -57373,23 +57363,6 @@ const contact_items = [
         "type": 1,
         "ring": 0,
         "rights": 6
-    },
-    {
-        "uid": 6457,
-        "owner": 6456,
-        "updated": "2004-01-04 17:07:14",
-        "name": "ALFA MODELS",
-        "path": null,
-        "url": "http://www.alfamodel.com",
-        "password": null,
-        "email": "info@alfamodel.com",
-        "phone": "+34 966306882",
-        "fax": "",
-        "smail": "Poeta Blas de Lomas, 9 1-Izq.\r\n\r\nAmazing Sci-Fi and Fantasy models!!",
-        "comment": null,
-        "type": 1,
-        "ring": null,
-        "rights": 11
     },
     {
         "uid": 6458,
