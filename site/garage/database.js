@@ -21650,16 +21650,6 @@ const buildup_items = [
         "comment": "Please visit my web site to find out about my painting service and more detailed pictures of my other kits\r\n<A HREF=\"http://www3.ns.sympatico.ca/dawn.plante/\"><b> CLICK HERE</B></A>."
     },
     {
-        "uid": 2617,
-        "owner": 5237,
-        "updated": "2001-02-07 18:32:43",
-        "kit": 3830,
-        "painter": 149,
-        "path": "",
-        "custom": 0,
-        "comment": ""
-    },
-    {
         "uid": 2618,
         "owner": 5237,
         "updated": "2001-02-07 18:14:19",
@@ -22620,16 +22610,6 @@ const buildup_items = [
         "comment": "Do you have one of these in the \"raw\" and want it to look like this?\r\nVisit my web site (HEAVY D's) to find out how at:\r\nwww.parlorcity.com/dscreations/\r\nThanks!"
     },
     {
-        "uid": 2726,
-        "owner": 5557,
-        "updated": "2001-08-26 06:19:26",
-        "kit": 5267,
-        "painter": 5571,
-        "path": "",
-        "custom": 0,
-        "comment": ""
-    },
-    {
         "uid": 2727,
         "owner": 5557,
         "updated": "2001-08-26 06:41:10",
@@ -22668,16 +22648,6 @@ const buildup_items = [
         "path": "bwa07",
         "custom": 0,
         "comment": "A comic book classic!! Flashback to the Aurora days!"
-    },
-    {
-        "uid": 2731,
-        "owner": 5557,
-        "updated": "2001-08-26 07:21:48",
-        "kit": 5311,
-        "painter": 122,
-        "path": "",
-        "custom": 0,
-        "comment": ""
     },
     {
         "uid": 2732,
@@ -22780,32 +22750,12 @@ const buildup_items = [
         "comment": "The base is the remmenants of my automatic transmission"
     },
     {
-        "uid": 2743,
-        "owner": 6288,
-        "updated": "2001-11-10 10:04:03",
-        "kit": 4800,
-        "painter": 149,
-        "path": "",
-        "custom": 0,
-        "comment": ""
-    },
-    {
         "uid": 2745,
         "owner": 6294,
         "updated": "2004-01-28 08:50:11",
         "kit": 5330,
         "painter": 6361,
         "path": "Super",
-        "custom": 0,
-        "comment": ""
-    },
-    {
-        "uid": 2746,
-        "owner": 6288,
-        "updated": "2001-11-10 09:41:17",
-        "kit": 4800,
-        "painter": 149,
-        "path": "",
         "custom": 0,
         "comment": ""
     },
@@ -22846,16 +22796,6 @@ const buildup_items = [
         "kit": 5334,
         "painter": 6602,
         "path": "wolverine",
-        "custom": 0,
-        "comment": ""
-    },
-    {
-        "uid": 2751,
-        "owner": 6288,
-        "updated": "2001-11-11 03:20:33",
-        "kit": 4800,
-        "painter": 149,
-        "path": "",
         "custom": 0,
         "comment": ""
     },
@@ -23390,16 +23330,6 @@ const buildup_items = [
         "comment": ""
     },
     {
-        "uid": 2813,
-        "owner": 5363,
-        "updated": "2002-01-10 23:42:32",
-        "kit": 5161,
-        "painter": 255,
-        "path": "",
-        "custom": 0,
-        "comment": ""
-    },
-    {
         "uid": 2814,
         "owner": 5363,
         "updated": "2002-01-10 23:51:25",
@@ -23476,16 +23406,6 @@ const buildup_items = [
         "kit": 5371,
         "painter": 5431,
         "path": "Sophie1",
-        "custom": 0,
-        "comment": ""
-    },
-    {
-        "uid": 2822,
-        "owner": 5547,
-        "updated": "2002-01-14 14:54:51",
-        "kit": 4872,
-        "painter": 5547,
-        "path": "",
         "custom": 0,
         "comment": ""
     },
@@ -23760,16 +23680,6 @@ const buildup_items = [
         "comment": "The horrific sacrificial ceremony of the 1976 KING KONG. "
     },
     {
-        "uid": 2855,
-        "owner": 5411,
-        "updated": "2002-04-05 07:19:49",
-        "kit": 3752,
-        "painter": 5411,
-        "path": "",
-        "custom": 0,
-        "comment": ""
-    },
-    {
         "uid": 2856,
         "owner": 5411,
         "updated": "2002-04-05 07:19:17",
@@ -23778,36 +23688,6 @@ const buildup_items = [
         "path": "alex",
         "custom": 0,
         "comment": "My second kit using an airbrush. Details added using enamels"
-    },
-    {
-        "uid": 2858,
-        "owner": 6470,
-        "updated": "2002-04-11 17:24:36",
-        "kit": 4214,
-        "painter": 6470,
-        "path": "",
-        "custom": 0,
-        "comment": ""
-    },
-    {
-        "uid": 2859,
-        "owner": 6470,
-        "updated": "2002-04-11 17:29:15",
-        "kit": 4214,
-        "painter": 6470,
-        "path": "",
-        "custom": 0,
-        "comment": "This was my first model kit ever and I personally think I did a decent job on it. Used black washes and a creme color for the skin and black with silver for the armor. And for the blood, I mixed a LOT of fluorescent yellow with a little bit of fluorescent green\r\n\r\n<img src=\"http://www.villagephotos.com/pubimage.asp?id_=206703\" width=320 height=224 >"
-    },
-    {
-        "uid": 2860,
-        "owner": 5535,
-        "updated": "2002-07-28 17:55:24",
-        "kit": 4824,
-        "painter": 5535,
-        "path": "",
-        "custom": 0,
-        "comment": "For some reason I can't upload the new images to gremlins. Please visit my website to view the images.\r\nwww.phamtastic.com"
     },
     {
         "uid": 2861,
@@ -25530,16 +25410,6 @@ const buildup_items = [
         "comment": ""
     },
     {
-        "uid": 3046,
-        "owner": 6803,
-        "updated": "2004-03-21 16:39:27",
-        "kit": 3476,
-        "painter": 6803,
-        "path": "",
-        "custom": 0,
-        "comment": ""
-    },
-    {
         "uid": 3047,
         "owner": 6803,
         "updated": "2004-03-21 16:27:03",
@@ -25608,16 +25478,6 @@ const buildup_items = [
         "path": "bigfire",
         "custom": 0,
         "comment": "Pegaso Models Fire Elemental/Demon. Very nice limited edition kit from Italy"
-    },
-    {
-        "uid": 3054,
-        "owner": 5237,
-        "updated": "2004-03-30 16:43:56",
-        "kit": 5569,
-        "painter": 149,
-        "path": "",
-        "custom": 0,
-        "comment": ""
     },
     {
         "uid": 3055,
@@ -25736,26 +25596,6 @@ const buildup_items = [
         "kit": 5578,
         "painter": 6294,
         "path": "Logan",
-        "custom": 0,
-        "comment": ""
-    },
-    {
-        "uid": 3070,
-        "owner": 307,
-        "updated": "2007-07-08 15:44:34",
-        "kit": 5580,
-        "painter": 7106,
-        "path": "",
-        "custom": 0,
-        "comment": "Pretty on a Pillow is the newest kit offered by Fogger Studios.  Shipping is free if you live in the continental United States.  Just go to www.foggerstudios.com and purchase via PayPal.  Just one other note - I'm not the painter!  Rick Cantu is the talented guy who painted this version of Pretty, but I can't seem to get his name to show up in the painter section above!"
-    },
-    {
-        "uid": 3071,
-        "owner": 5057,
-        "updated": "2011-05-15 12:14:45",
-        "kit": 3476,
-        "painter": 5057,
-        "path": "",
         "custom": 0,
         "comment": ""
     }
