@@ -505,7 +505,7 @@ const buildup_items = [
         "updated": "2004-02-28 10:13:50",
         "kit": 3246,
         "painter": 282,
-        "path": "http://jamesart.com/angelissa.html",
+        "path": "angelissa",
         "custom": 1,
         "comment": null
     },
@@ -515,7 +515,7 @@ const buildup_items = [
         "updated": "2004-02-28 10:14:08",
         "kit": 3247,
         "painter": 282,
-        "path": "http://jamesart.com/tabitha.html",
+        "path": "tabitha",
         "custom": 1,
         "comment": null
     },
@@ -535,7 +535,7 @@ const buildup_items = [
         "updated": "2004-02-28 10:14:17",
         "kit": 3248,
         "painter": 282,
-        "path": "http://jamesart.com/bride.html",
+        "path": "bride",
         "custom": 1,
         "comment": null
     },
@@ -545,7 +545,7 @@ const buildup_items = [
         "updated": "2004-02-28 10:14:25",
         "kit": 3249,
         "painter": 282,
-        "path": "http://jamesart.com/kiko.html",
+        "path": "kiko",
         "custom": 1,
         "comment": null
     },
@@ -555,7 +555,7 @@ const buildup_items = [
         "updated": "2004-02-28 10:14:36",
         "kit": 3250,
         "painter": 282,
-        "path": "http://jamesart.com/sedusa.html",
+        "path": "sedusa",
         "custom": 1,
         "comment": null
     },
@@ -575,7 +575,7 @@ const buildup_items = [
         "updated": "2004-02-28 10:13:05",
         "kit": 3252,
         "painter": 282,
-        "path": "http://jamesart.com/vixen.html",
+        "path": "vixen",
         "custom": 1,
         "comment": null
     },
@@ -10285,7 +10285,7 @@ const buildup_items = [
         "updated": "2004-02-28 10:15:18",
         "kit": 4076,
         "painter": 282,
-        "path": "http://jamesart.com/cricket.html",
+        "path": "cricket",
         "custom": 1,
         "comment": null
     },
@@ -13425,7 +13425,7 @@ const buildup_items = [
         "updated": "2004-02-28 10:15:29",
         "kit": 4398,
         "painter": 282,
-        "path": "http://jamesart.com/venus.html",
+        "path": "venus",
         "custom": 1,
         "comment": null
     },
@@ -15625,7 +15625,7 @@ const buildup_items = [
         "updated": "2004-02-28 10:15:41",
         "kit": 4564,
         "painter": 282,
-        "path": "http://jamesart.com/oona.html",
+        "path": "oona",
         "custom": 1,
         "comment": null
     },
@@ -17635,7 +17635,7 @@ const buildup_items = [
         "updated": "2004-02-28 10:16:03",
         "kit": 4796,
         "painter": 282,
-        "path": "http://jamesart.com/guinevere.html",
+        "path": "guinevere",
         "custom": 1,
         "comment": null
     },
@@ -19705,7 +19705,7 @@ const buildup_items = [
         "updated": "2004-02-28 10:15:05",
         "kit": 5056,
         "painter": 18,
-        "path": "http://jamesart.com/arora.html",
+        "path": "arora",
         "custom": 1,
         "comment": null
     },
